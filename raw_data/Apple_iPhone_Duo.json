@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/apple_iphone_duo_fold_5g-13804.php",
+  "name": "Apple iPhone Duo",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-duo-12.jpg",
+  "highlights": [
+    "Exp. release 2026, October 23\n254g, 5.2mm thickness\niOS 27\n256GB/512GB/2TB storage, no card slot",
+    "20%\n938,612 HITS",
+    "162\nBECOME A FAN",
+    "7.6\"\n1878x2670 pixels",
+    "48MP\n2160p",
+    "12GB RAM\nApple A20 Pro",
+    "PD3.2"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "SA/NSA/Sub6/mmWave - USA",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+    },
+    "LAUNCH": {
+      "Announced": "2026, September 09",
+      "Status": "Coming soon. Exp. release 2026, October 23"
+    },
+    "BODY": {
+      "Dimensions": "Unfolded: 117.8 x 164.6 x 5.2 mm\nFolded: 117.8 x 84.1 x 11.3 mm",
+      "Weight": "254 g (8.96 oz)",
+      "Build": "Glass front (Ceramic Shield 2) (folded), titanium frame & hindge (grade 5), glass back (Ceramic Shield)",
+      "SIM": "eSIM + eSIM (8 or more, max 2 at a time; USA)",
+      "": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nStylus support"
+    },
+    "DISPLAY": {
+      "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+      "Size": "7.6 inches, 175.4 cm2 (~90.4% screen-to-body ratio)",
+      "Resolution": "1878 x 2670 pixels (~430 ppi density)",
+      "Protection": "Nano Texture finish",
+      "": "Anti‑reflective coating\nWide-angle OLED\nSmall display crease\nCover display:\nLTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)\n5.4 inches, 1398 x 2034 pixels, 460 ppi\nCeramic Shield 2, Anti‑reflective coating"
+    },
+    "PLATFORM": {
+      "OS": "iOS 27",
+      "Chipset": "Apple A20 Pro (2 nm)",
+      "CPU": "Hexa-core (2x GHz high performance + 4x GHz)",
+      "GPU": "Apple GPU (7-core graphics)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM, 2TB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "48 MP, f/1.6, 26mm (wide), 1/1.28\", 1.22µm, PDAF, sensor-shift OIS (gen2)\n48 MP, f/2.2, 13mm (ultrawide), 1/2.55\", 0.7µm, PDAF",
+      "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+      "Video": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, 3D (spatial) video/audio, stereo sound rec."
+    },
+    "SELFIE CAMERA": {
+      "Single": "XX MP under display camera, f/1.8, 1080p@30/60fps video\nCover camera:\n12 MP multi-aspect, f/2.2, (wide), AF",
+      "Features": "HDR, Dolby Vision HDR, spatial audio, stereo sound rec.",
+      "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2 Gen 2, DisplayPort"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+      "": "Ultra Wideband (UWB) support (gen2 chip)\nEmergency SOS, Messages and Find My via satellite"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion",
+      "Charging": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min"
+    },
+    "MISC": {
+      "Colors": "Night Sky, Star White",
+      "Price": "About 2300 EUR"
+    }
+  }
+}
