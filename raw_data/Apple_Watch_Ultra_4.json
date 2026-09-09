@@ -1,0 +1,79 @@
+{
+  "url": "https://www.gsmarena.com/apple_watch_ultra_4-14935.php",
+  "name": "Apple Watch Ultra 4",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-ultra3.jpg",
+  "highlights": [
+    "Expected announcement 2026, September 09\n12mm thickness\nwatchOS 27\n64GB/128GB storage, no card slot",
+    "0.5%\n364 HITS",
+    "0\nBECOME A FAN",
+    "2.12\"\n514x422 pixels",
+    "NO",
+    "Apple S11",
+    ""
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+      "": "1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada",
+      "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Expected announcement 2026, September 09",
+      "Status": "Rumored. Exp. release 2026, September 18"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Sapphire crystal front, ceramic/sapphire crystal back, titanium frame (grade 5)",
+      "SIM": "eSIM",
+      "": "IP6X certified\n100m water resistant (22810:2010)\n40m swimproof/diving (EN13319)\nMIL-STD-810H compliant\nECG certified (region dependent SW application; HW available on all models)"
+    },
+    "DISPLAY": {
+      "Type": "Retina LTPO3 OLED, 3000 nits (peak)",
+      "Size": "2.12 inches",
+      "Resolution": "514 x 422 pixels (~314 ppi density)",
+      "Protection": "Sapphire crystal glass",
+      "": "Wide-angle OLED"
+    },
+    "PLATFORM": {
+      "OS": "watchOS 27",
+      "Chipset": "Apple S11",
+      "CPU": "Dual-core",
+      "GPU": "PowerVR"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "64GB, 128GB"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with dual speakers (86-decibel)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+      "Bluetooth": "6.0 A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, continuous heart rate, barometer, always-on altimeter (-500m to 9000m), compass, SpO2, VO2max, temperature (body), temperature (water)",
+      "": "Temperature sensing (0.01˚ accuracy)\nDepth gauge (±1m accuracy)\nUltra Wideband (UWB) support (gen2 chip)\nEmergency SOS via satellite"
+    },
+    "BATTERY": {
+      "Type": "",
+      "Charging": "Wireless, 0-80% in 45 min"
+    },
+    "MISC": {
+      "Colors": "Natural, Black"
+    }
+  }
+}
