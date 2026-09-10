@@ -5,7 +5,7 @@
     "Front:": "XX MP under display camera, f/1.8, 1080p@30/60fps video\nCover camera:\n12 MP multi-aspect, f/2.2, (wide), AF",
     "Folded:": "",
     "Main camera:": "48 MP, f/1.6, 26mm (wide), 1/1.28\", 1.22µm, PDAF, sensor-shift OIS (gen2)",
-    "Second camera:": "48 MP, f/2.2, 13mm (ultrawide), 1/2.55\", 0.7µm, PDAF",
+    "Second camera:": "48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF",
     "Third camera:": "",
     "Specifications:": "Aperture size: F/1.6 Focal Length: 26mm",
     "Video recording:": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, 3D (spatial) video/audio, stereo sound rec."
@@ -37,12 +37,12 @@
     "Front cover display:": ""
   },
   "Cellular": {
-    "Technology:": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+    "Technology:": "GSM / HSPA / LTE / 5G",
     "2G bands:": "GSM 850 / 900 / 1800 / 1900",
     "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
     "4G bands:": "LTE",
     "5G bands:": "SA/NSA/Sub6",
-    "SIM type:": "eSIM + eSIM (8 or more, max 2 at a time; USA)"
+    "SIM type:": "eSIM + eSIM (8 or more, max 2 at a time)"
   },
   "Hardware": {
     "OS:": "iOS 27",

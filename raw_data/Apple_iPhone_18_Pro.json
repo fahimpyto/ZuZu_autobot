@@ -1,11 +1,11 @@
 {
-  "url": "https://www.gsmarena.com/apple_iphone_18_pro_5g-14934.php",
+  "url": "https://www.gsmarena.com/apple_iphone_18_pro-14934.php",
   "name": "Apple iPhone 18 Pro",
-  "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-18-pro-max-r1.jpg",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-18-pro-max-2.jpg",
   "highlights": [
-    "Expected announcement 2026, September 09\n\niOS 27\n256GB/512GB/1TB storage, no card slot",
-    "4.1%\n2,624 HITS",
-    "3\nBECOME A FAN",
+    "Exp. release 2026, September 18\n211g, 8.8mm thickness\niOS 27\n256GB/512GB/2TB storage, no card slot",
+    "94%\n162,034 HITS",
+    "49\nBECOME A FAN",
     "6.3\"\n1206x2622 pixels",
     "48MP\n2160p",
     "12GB RAM\nApple A20 Pro",
@@ -22,41 +22,41 @@
       "Speed": "HSPA, LTE, 5G"
     },
     "LAUNCH": {
-      "Announced": "Expected announcement 2026, September 09",
-      "Status": "Rumored. Exp. release 2026, September 18"
+      "Announced": "2026, September 09",
+      "Status": "Coming soon. Exp. release 2026, September 18"
     },
     "BODY": {
-      "Dimensions": "-",
-      "Weight": "-",
+      "Dimensions": "150 x 71.9 x 8.8 mm (5.91 x 2.83 x 0.35 in)",
+      "Weight": "211 g (7.44 oz)",
       "Build": "Glass front (Ceramic Shield 2), aluminum frame, aluminum back/ glass back (Ceramic Shield)",
       "SIM": "· Nano-SIM + eSIM + eSIM (max 2 at a time; International)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)\n· Nano-SIM + Nano-SIM (China)",
       "": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nApple Pay (Visa, MasterCard, AMEX certified)"
     },
     "DISPLAY": {
-      "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision",
-      "Size": "6.3 inches, 97.2 cm2",
-      "Resolution": "1206 x 2622 pixels, 19.5:9 ratio (~458 ppi density)",
+      "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+      "Size": "6.3 inches, 96.4 cm2 (~89.4% screen-to-body ratio)",
+      "Resolution": "1206 x 2622 pixels, 19.5:9 ratio (~460 ppi density)",
       "Protection": "Ceramic Shield 2",
       "": "Anti-reflective coating"
     },
     "PLATFORM": {
       "OS": "iOS 27",
       "Chipset": "Apple A20 Pro (2 nm)",
-      "CPU": "Hexa-core (2x GHz + 4x GHz)",
-      "GPU": "Apple GPU (8-core graphics)"
+      "CPU": "Hexa-core (2x GHz high performance + 4x GHz)",
+      "GPU": "Apple GPU (7-core graphics)"
     },
     "MEMORY": {
       "Card slot": "No",
-      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM, 2TB 12GB RAM",
       "": "NVMe"
     },
     "MAIN CAMERA": {
-      "Triple": "48 MP, f/1.6-4.0, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS\n48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF\nTOF 3D LiDAR scanner (depth)",
-      "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+      "Triple": "48 MP, f/1.5-4.0, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS (gen2)\n48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF\nTOF 3D LiDAR scanner (depth)",
+      "Features": "Dual-LED dual-tone flash, HDR (photo/panorama), Cinematic from regular video",
       "Video": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo sound rec."
     },
     "SELFIE CAMERA": {
-      "Single": "25 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\nSL 3D, (depth/biometrics sensor)",
+      "Single": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\nSL 3D, (depth/biometrics sensor)",
       "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2",
       "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
     },
@@ -77,11 +77,12 @@
       "": "Ultra Wideband (UWB) support (gen2 chip)\nEmergency SOS, Messages and Find My via satellite"
     },
     "BATTERY": {
-      "Type": "Market-dependent versions:\n· Li-Ion 4056 mAh - Nano SIM model\n· Li-Ion 4288 mAh - eSIM only model",
-      "Charging": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired"
+      "Type": "Market-dependent versions:\n· Li-Ion 4056 mAh - Nano SIM model*\n· Li-Ion 4288 mAh - eSIM only model*",
+      "Charging": "Wired, PD3.2, AVS, 50% in 15 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired\n* battery capacities are officially unconfirmed"
     },
     "MISC": {
-      "Colors": "Coffee Brown, Purple, Burgundy"
+      "Colors": "Black, Silver, Glacier, Burgundy",
+      "Price": "About 1450 EUR"
     }
   }
 }

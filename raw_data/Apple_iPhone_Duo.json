@@ -1,11 +1,11 @@
 {
-  "url": "https://www.gsmarena.com/apple_iphone_duo_fold_5g-13804.php",
+  "url": "https://www.gsmarena.com/apple_iphone_duo_fold-13804.php",
   "name": "Apple iPhone Duo",
-  "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-duo-12.jpg",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-duo.jpg",
   "highlights": [
     "Exp. release 2026, October 23\n254g, 5.2mm thickness\niOS 27\n256GB/512GB/2TB storage, no card slot",
-    "20%\n938,612 HITS",
-    "162\nBECOME A FAN",
+    "23%\n1,087,979 HITS",
+    "196\nBECOME A FAN",
     "7.6\"\n1878x2670 pixels",
     "48MP\n2160p",
     "12GB RAM\nApple A20 Pro",
@@ -13,13 +13,13 @@
   ],
   "specs": {
     "NETWORK": {
-      "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+      "Technology": "GSM / HSPA / LTE / 5G",
       "2G bands": "GSM 850 / 900 / 1800 / 1900",
-      "": "SA/NSA/Sub6/mmWave - USA",
       "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
       "4G bands": "LTE",
       "5G bands": "SA/NSA/Sub6",
-      "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+      "": "SA/NSA/Sub6/mmWave - USA",
+      "Speed": "HSPA, LTE, 5G"
     },
     "LAUNCH": {
       "Announced": "2026, September 09",
@@ -29,7 +29,7 @@
       "Dimensions": "Unfolded: 117.8 x 164.6 x 5.2 mm\nFolded: 117.8 x 84.1 x 11.3 mm",
       "Weight": "254 g (8.96 oz)",
       "Build": "Glass front (Ceramic Shield 2) (folded), titanium frame & hindge (grade 5), glass back (Ceramic Shield)",
-      "SIM": "eSIM + eSIM (8 or more, max 2 at a time; USA)",
+      "SIM": "eSIM + eSIM (8 or more, max 2 at a time)",
       "": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nStylus support"
     },
     "DISPLAY": {
@@ -50,7 +50,7 @@
       "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM, 2TB 12GB RAM"
     },
     "MAIN CAMERA": {
-      "Dual": "48 MP, f/1.6, 26mm (wide), 1/1.28\", 1.22µm, PDAF, sensor-shift OIS (gen2)\n48 MP, f/2.2, 13mm (ultrawide), 1/2.55\", 0.7µm, PDAF",
+      "Dual": "48 MP, f/1.6, 26mm (wide), 1/1.28\", 1.22µm, PDAF, sensor-shift OIS (gen2)\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF",
       "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
       "Video": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, 3D (spatial) video/audio, stereo sound rec."
     },

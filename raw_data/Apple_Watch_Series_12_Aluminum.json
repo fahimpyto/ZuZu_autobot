@@ -1,0 +1,78 @@
+{
+  "url": "https://www.gsmarena.com/apple_watch_series_12_aluminum-14936.php",
+  "name": "Apple Watch Series 12 Aluminum",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series12.jpg",
+  "highlights": [
+    "Exp. release 2026, September 18\n31.5/32.2/38.6/39.5g, 9.7mm thickness\nwatchOS 27\n64GB storage, no card slot",
+    "N/A\n296 HITS",
+    "0\nBECOME A FAN",
+    "1.96\"\n496x416 pixels",
+    "NO",
+    "Apple S11",
+    ""
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, September 09",
+      "Status": "Coming soon. Exp. release 2026, September 18"
+    },
+    "BODY": {
+      "Dimensions": "46 x 40 x 9.7 mm (1.81 x 1.57 x 0.38 in)",
+      "Weight": "31.5/32.2/38.6/39.5 g (1.13 oz)",
+      "Build": "Glass front (Ceramic Shield 2), ceramic/zirconia back, aluminum frame",
+      "SIM": "eSIM",
+      "": "IP6X certified\n50m water resistant\nECG certified (region dependent SW application; HW available on all models)\nDepth gauge to 6m"
+    },
+    "DISPLAY": {
+      "Type": "Retina LTPO3 OLED, 2000 nits (peak)",
+      "Size": "1.96 inches",
+      "Resolution": "496 x 416 pixels (~330 ppi density)",
+      "Protection": "Ceramic Shield 2",
+      "": "Wide-angle OLED"
+    },
+    "PLATFORM": {
+      "OS": "watchOS 27",
+      "Chipset": "Apple S11",
+      "CPU": "Dual-core",
+      "GPU": "PowerVR"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "64GB"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+      "Bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, always-on heart rate, barometer, always-on altimeter, compass, SpO2, VO2max, temperature (body), temperature (water)",
+      "": "Health Sensing System: third‑generation electrical heart sensor, always‑on optical heart sensor, blood oxygen sensor, temperature sensor\nTemperature sensing (0.01˚ accuracy)\nUltra Wideband (UWB) support (gen2 chip)\nMedia playback"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion",
+      "Charging": "Wireless, 0-80% in 30 min"
+    },
+    "MISC": {
+      "Colors": "Dark Bronze, Light Gold, Black, Space Gray"
+    }
+  }
+}

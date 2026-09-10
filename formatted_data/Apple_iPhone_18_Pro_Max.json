@@ -1,29 +1,29 @@
 {
   "Camera": {
-    "Rear:": "48 MP, f/1.6-4.0, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS",
-    "Flash:": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+    "Rear:": "48 MP, f/1.5-4.0, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS (gen2)",
+    "Flash:": "Dual-LED dual-tone flash, HDR (photo/panorama), Cinematic from regular video",
     "Front:": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\nSL 3D, (depth/biometrics sensor)",
     "Folded:": "",
-    "Main camera:": "48 MP, f/1.6-4.0, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS",
+    "Main camera:": "48 MP, f/1.5-4.0, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS (gen2)",
     "Second camera:": "48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom",
     "Third camera:": "48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF",
-    "Specifications:": "Aperture size: F/1.6 Focal Length: 24mm",
+    "Specifications:": "Aperture size: F/1.5 Focal Length: 24mm",
     "Video recording:": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo sound rec."
   },
   "Design": {
     "Keys:": "Right: Volume control, Lock/Unlock key",
-    "Colors:": "Coffee Brown, Pruple, Burgundy",
+    "Colors:": "Black, Silver, Glacier, Burgundy",
     "Folded:": "",
-    "Weight:": "-",
+    "Weight:": "249 g (8.78 oz)",
     "Materials:": "Glass front (Ceramic Shield 2), aluminum frame, aluminum back/ glass back (Ceramic Shield)",
     "Biometrics:": "Face ID, accelerometer, gyro, proximity, compass, barometer",
-    "Dimensions:": "-",
+    "Dimensions:": "163.4 x 78 x 8.8 mm (6.43 x 3.07 x 0.35 in)",
     "Resistance:": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nApple Pay (Visa, MasterCard, AMEX certified)"
   },
   "Battery": {
-    "Type:": "",
-    "Capacity:": "5100 mAh",
-    "Charging:": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired",
+    "Type:": "Market-dependent versions:\n· Li-Ion  - Nano SIM model*\n· Li-Ion 5567 mAh - eSIM only model*",
+    "Capacity:": "5391 mAh",
+    "Charging:": "Wired, PD3.2, AVS, 50% in 15 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired\n* battery capacities are officially unconfirmed",
     "Max charge speed:": "Wireless: 25W"
   },
   "Display": {
@@ -33,7 +33,7 @@
     "Technology:": "LTPO Super Retina XDR OLED",
     "Refresh rate:": "120Hz",
     "Screen-to-body:": "",
-    "Peak brightness:": "",
+    "Peak brightness:": "3000 cd/m2 (nit)",
     "Front cover display:": ""
   },
   "Cellular": {
@@ -46,7 +46,7 @@
   },
   "Hardware": {
     "OS:": "iOS 27",
-    "GPU:": "Apple GPU (8-core graphics)",
+    "GPU:": "Apple GPU (7-core graphics)",
     "RAM:": "12GB",
     "Processor:": "Apple A20 Pro (2 nm)",
     "Device type:": "Smartphone",
