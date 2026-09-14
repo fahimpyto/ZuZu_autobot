@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "200 MP, f/1.6, (wide), PDAF, OIS",
+    "Flash:": "Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama, LUT preview",
+    "Front:": "50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, PDAF",
+    "Folded:": "",
+    "Main camera:": "200 MP, f/1.6, (wide), PDAF, OIS",
+    "Second camera:": "200 MP, f/2.6, (periscope telephoto), optical zoom, PDAF, OIS",
+    "Third camera:": "200 MP",
+    "Specifications:": "Aperture size: F/1.6",
+    "Video recording:": "4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision, LOG"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "White, Titanium, Orange",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front (Gorilla Glass Victus 2), glass back, aluminum frame",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "-",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "8000 mAh",
+    "Charging:": "80W wired, 80W UFCS, 55W PPS, 11.7W PD\n50W wireless\n10W reverse wireless",
+    "Max charge speed:": "Wired: 80WWireless: 50W"
+  },
+  "Display": {
+    "Size:": "6.82 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "1272 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+    "Technology:": "LTPO AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "· Nano-SIM + eSIM\n· Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 17, ColorOS 17",
+    "GPU:": "",
+    "RAM:": "12GB",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band or tri-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C 3.2, OTG",
+    "Location:": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L5)",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD, LHDC 5"
+  }
+}
