@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/honor_magic9_pro_max_5g-14940.php",
+  "name": "Honor Magic9 Pro Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic9-pro-max.jpg",
+  "highlights": [
+    "Not announced yet\n\nAndroid 17, up to 7 major OS updates\n256GB/512GB/1TB storage, no card slot",
+    "1.0%\n2,286 HITS",
+    "7\nBECOME A FAN",
+    "6.8\"\n1320x2868 pixels",
+    "200MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 6",
+    "8800mAh\n100W80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front (NanoCrystal Shield), glass-fiber reinforced plastic back, aluminum frame",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - International\n· Nano-SIM + Nano-SIM - China",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO OLED, 1B colors, 120Hz, 4320Hz PWM, Dolby Vision, HDR Vivid",
+      "Size": "6.8 inches, 113.3 cm2",
+      "Resolution": "1320 x 2868 pixels, 19.5:9 ratio (~464 ppi density)",
+      "Protection": "NanoCrystal Shield (INT); Giant Rhino Glass (China)",
+      "": "HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, up to 7 major OS updates, MagicOS 11",
+      "Chipset": "Qualcomm Snapdragon 8 Elite Gen 6",
+      "CPU": "Octa-core",
+      "GPU": "Adreno"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/1.6, 23mm (wide), 1/1.28\", PDAF, OIS\n200 MP, f/2.6, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.7x optical zoom\n50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.88\", 0.61µm, dual pixel PDAF",
+      "Features": "Laser AF, color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@24/30/60/120fps, 1080p@24/30/60/120/240fps, gyro-EIS, OIS, HDR, 10-bit video"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP multi-aspect, f/2.0, 21mm (wide), 1/2.93\", 0.6µm\nTOF 3D, (depth/biometrics sensor)",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with large amplitude stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band or tri-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5, Auracast, ASHA",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, DisplayPort 1.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), Face ID, accelerometer, gyro, proximity, compass",
+      "": "Emergency SOS via satellite (messages and calls) - China only\nDesktop mode"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8800 mAh",
+      "Charging": "100W wired, 100W PPS, 40W UFCS\n80W wireless\nReverse wireless\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Gray, Green, Silver"
+    }
+  }
+}
