@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/vivo_x500_pro_5g-14950.php",
+  "name": "vivo X500 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x500-pro.jpg",
+  "highlights": [
+    "Exp. release 2026, September 29\n192g or 197g, 8.1mm thickness\nAndroid 17, up to 5 major OS updates\n256GB/512GB/1TB storage, no card slot",
+    "22%\n14,395 HITS",
+    "21\nBECOME A FAN",
+    "6.36\"\n1216x2660 pixels",
+    "64MP\n4320p",
+    "12GB RAM\nDimensity 9600 Pro",
+    "6510mAh\n90W40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+      "5G bands": "1, 2, 3, 5, 7, 8, 18, 20, 25, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, September 21",
+      "Status": "Coming soon. Exp. release 2026, September 29"
+    },
+    "BODY": {
+      "Dimensions": "151.8 x 71.9 x 8.1 mm (5.98 x 2.83 x 0.32 in)",
+      "Weight": "192 g or 197 g (6.77 oz)",
+      "Build": "Glass front, aluminum frame, glass back or glass-fiber reinforced plastic back",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International\n· Nano-SIM + Nano-SIM - China",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 144Hz, HDR10+, Dolby Vision, 2000 nits (HBM), 4500 nits (peak)",
+      "Size": "6.36 inches, 99.1 cm2 (~90.8% screen-to-body ratio)",
+      "Resolution": "1216 x 2660 pixels, 19.5:9 ratio (~459 ppi density)",
+      "": "Ultra HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, up to 5 major OS updates, OriginOS 7",
+      "Chipset": "Mediatek Dimensity 9600 Pro (2 nm)",
+      "CPU": "Octa-core (2x4.55 GHz & 3x4.35 GHz & 3x3.1 GHz)",
+      "GPU": "Mali-G2-Ultra-NX"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, PDAF, OIS\n64 MP, f/2.5, 85mm (periscope telephoto), 1/2.0\", 0.7µm, PDAF (18cm - ∞), OIS, 3.5x optical zoom\n50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.75\", 0.64µm, AF",
+      "Features": "Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+      "Video": "8K@30fps, 4K@30/60/120/240fps, 1080p@30/60/120/240fps, 17 EV TrueDynamic Log, Dolby Vision HDR, 4K@120fps 10-bit Log, 10-bit 422 APV"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF",
+      "Features": "HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "5.4/6.0, A2DP, LE, aptX HD, LHDC 5",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 6510 mAh",
+      "Charging": "90W wired\n40W wireless\nReverse wireless\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, Gray, White, Orange",
+      "Models": "V2608A",
+      "Price": "About 850 EUR"
+    }
+  }
+}
