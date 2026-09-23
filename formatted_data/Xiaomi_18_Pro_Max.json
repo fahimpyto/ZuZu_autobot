@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "200 MP, f/1.7, 23mm (wide), 1/1.28\", 0.61µm, dual pixel PDAF, OIS",
+    "Flash:": "Laser AF, color spectrum sensor, Leica lens, Dual-LED dual-tone flash, HDR, panorama",
+    "Front:": "50 MP, f/2.2, 21mm (wide), 1/2.88\", 0.61µm, PDAF",
+    "Folded:": "",
+    "Main camera:": "200 MP, f/1.7, 23mm (wide), 1/1.28\", 0.61µm, dual pixel PDAF, OIS",
+    "Second camera:": "200 MP, f/2.4, 75mm (periscope telephoto), 1/1.56\", PDAF (10cm - ∞), OIS, 3.2x optical zoom",
+    "Third camera:": "50 MP, f/2.4, 17mm, 102˚ (ultrawide), 1/2.88\", 0.61µm, PDAF",
+    "Specifications:": "Aperture size: F/1.7 Focal Length: 23mm",
+    "Video recording:": "8K@30fps (HDR), 4K@30/60/120fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, White, Pink, Red, Blue",
+    "Folded:": "",
+    "Weight:": "235 g or 240 g (8.29 oz)",
+    "Materials:": "Glass front (Dragon Crystal Glass 3), aluminum frame",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer",
+    "Dimensions:": "163.4 x 77.6 x 8.4 mm (6.43 x 3.06 x 0.33 in)",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "8500 mAh",
+    "Charging:": "100W wired, PD3.0, QC3+, 100W PPS\n50W wireless\n27W reverse wireless",
+    "Max charge speed:": "Wired: 100WWireless: 50W"
+  },
+  "Display": {
+    "Size:": "6.9 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer",
+    "Resolution:": "1208 x 2624 pixels, 19.5:9 ratio (~418 ppi density)",
+    "Technology:": "LTPO AMOLED",
+    "Refresh rate:": "2160Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "4000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 34, 38, 39, 40, 41, 42, 43, 48, 66, 71",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 12, 13, 14, 18, 20, 25, 26, 28, 29, 38, 40, 41, 48, 66, 70, 71, 77, 78, 79, 80, 81, 83, 84, 89 SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 17, HyperOS 4",
+    "GPU:": "Adreno",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm Snapdragon 8 Elite Extreme Gen 6 (2 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (3 speakers, with Dolby Atmos)",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, Display Port, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer",
+    "Features:": "USB Type-C 3.2, Display Port, OTG",
+    "Location:": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+  }
+}
