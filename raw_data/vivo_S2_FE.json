@@ -1,0 +1,81 @@
+{
+  "url": "https://www.gsmarena.com/vivo_s2_fe_5g-14962.php",
+  "name": "vivo S2 FE",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v80-lite.jpg",
+  "highlights": [
+    "Not announced yet\n224g, 8.6mm thickness\nAndroid 16, OriginOS 6\n128GB/256GB storage, no card slot",
+    "1.4%\n2,052 HITS",
+    "1\nBECOME A FAN",
+    "6.83\"\n1260x2800 pixels",
+    "50MP\n2160p",
+    "6/8GB RAM\nDimensity 7300e",
+    "10000mAh\n44W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "163.9 x 76.5 x 8.6 mm (6.45 x 3.01 x 0.34 in)",
+      "Weight": "224 g (7.90 oz)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, HDR10+, 1000 nits, 2000 nits (HBM)",
+      "Size": "6.83 inches, 112.6 cm2 (~89.8% screen-to-body ratio)",
+      "Resolution": "1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, OriginOS 6",
+      "Chipset": "Mediatek Dimensity 7300e (6 nm)",
+      "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G610"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 6GB RAM, 256GB 6GB RAM, 256GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.8, (wide), 1/2.93\", PDAF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K, 1080p, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.0, 22mm (wide)",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "No",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 10000 mAh",
+      "Charging": "44W wired\nReverse wired"
+    },
+    "MISC": {
+      "Colors": "Green, Black"
+    }
+  }
+}
