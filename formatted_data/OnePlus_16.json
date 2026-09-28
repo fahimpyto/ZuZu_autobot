@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "200 MP, (wide), 1/1.56\", 1.4µm, PDAF, OIS",
+    "Flash:": "Laser focus, color spectrum sensor, LED flash, HDR, panorama, LUT preview",
+    "Front:": "50 MP, (wide), AF",
+    "Folded:": "",
+    "Main camera:": "200 MP, (wide), 1/1.56\", 1.4µm, PDAF, OIS",
+    "Second camera:": "50 MP, (periscope telephoto), 1/1.95\", 3x optical zoom, PDAF, OIS",
+    "Third camera:": "50 MP, f/2.0, 16mm, 116˚ (ultrawide), 1/2.88\", 0.61µm, PDAF",
+    "Specifications:": "",
+    "Video recording:": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS, Dolby Vision, LUT"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Silver, Orange",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "Glass front (Gorilla Glass Victus 2), aluminum frame, glass back (Gorilla Glass 7i or Crystal Shield Glass) or glass-fiber reinforced plastic back",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro (UAV-grade), compass, barometer (exc. China)",
+    "Dimensions:": "-",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "9000 mAh",
+    "Charging:": "100W wired\n50W wireless\nReverse wireless\n5W reverse wired\nBypass charging",
+    "Max charge speed:": "Wired: 100WWireless: 50W"
+  },
+  "Display": {
+    "Size:": "6.78 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro (UAV-grade), compass, barometer (exc. China)",
+    "Resolution:": "1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)",
+    "Technology:": "LTPO AMOLED",
+    "Refresh rate:": "165Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "SIM type:": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)\n· Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 17, OxygenOS 17",
+    "GPU:": "Adreno 850",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6 (2 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual or tri-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro (UAV-grade), compass, barometer (exc. China)",
+    "Features:": "USB Type-C 3.2, OTG",
+    "Location:": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+  }
+}

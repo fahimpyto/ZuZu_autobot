@@ -1,0 +1,88 @@
+{
+  "url": "https://www.gsmarena.com/oneplus_16_5g-14974.php",
+  "name": "OnePlus 16",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-16.jpg",
+  "highlights": [
+    "Not announced yet\n8.1mm thickness\nAndroid 17, OxygenOS 17\n256GB/512GB/1TB storage, no card slot",
+    "12%\n8,495 HITS",
+    "21\nBECOME A FAN",
+    "6.78\"\n1272x2772 pixels",
+    "200MP\n4320p",
+    "12/16GB RAM\nSnapdragon 8 Elite Extreme Gen 6",
+    "9000mAh\n100W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+      "": "HSDPA 850 / 900 / 1900 / 2100 - India",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front (Gorilla Glass Victus 2), aluminum frame, glass back (Gorilla Glass 7i or Crystal Shield Glass) or glass-fiber reinforced plastic back",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO AMOLED, 1B colors, 165Hz, Dolby Vision, HDR10+, HDR Vivid",
+      "Size": "6.78 inches, 112.4 cm2 (~90.8% screen-to-body ratio)",
+      "Resolution": "1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)",
+      "Protection": "Corning Gorilla Glass Victus 2",
+      "": "Ultra HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, OxygenOS 17",
+      "Chipset": "Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6 (2 nm)",
+      "CPU": "Octa-core (2x5.01 GHz Prime + 3x4.03 GHz Performance + 3x3.74 GHz Performance)",
+      "GPU": "Adreno 850"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 5.0"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, (wide), 1/1.56\", 1.4µm, PDAF, OIS\n50 MP, (periscope telephoto), 1/1.95\", 3x optical zoom, PDAF, OIS\n50 MP, f/2.0, 16mm, 116˚ (ultrawide), 1/2.88\", 0.61µm, PDAF",
+      "Features": "Laser focus, color spectrum sensor, LED flash, HDR, panorama, LUT preview",
+      "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS, Dolby Vision, LUT"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, (wide), AF",
+      "Features": "HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual or tri-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+      "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro (UAV-grade), compass, barometer (exc. China)"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 9000 mAh",
+      "Charging": "100W wired\n50W wireless\nReverse wireless\n5W reverse wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Black, Silver, Orange"
+    }
+  }
+}
