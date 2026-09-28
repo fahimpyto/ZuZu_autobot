@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/honor_magic9_super_5g-14969.php",
+  "name": "Honor Magic9 Super",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic9-super.jpg",
+  "highlights": [
+    "Exp. release 2026, October 08\n227g, 8.1mm thickness\nAndroid 17, MagicOS 11\n256GB/512GB storage, no card slot",
+    "3.2%\n2,890 HITS",
+    "6\nBECOME A FAN",
+    "6.81\"\n1280x2788 pixels",
+    "200MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Elite Gen 5",
+    "11000mAh\n80W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, September 28",
+      "Status": "Coming soon. Exp. release 2026, October 08"
+    },
+    "BODY": {
+      "Dimensions": "161.8 x 76.7 x 8.1 mm (6.37 x 3.02 x 0.32 in)",
+      "Weight": "227 g (8.01 oz)",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nBuilt-in cooling fan"
+    },
+    "DISPLAY": {
+      "Type": "OLED, 1B colors, 120Hz, 3840Hz PWM, HDR, 2000 nits (HBM), 10000 nits (peak)*",
+      "Size": "6.81 inches, 113.5 cm2 (~91.4% screen-to-body ratio)",
+      "Resolution": "1280 x 2788 pixels, 19.5:9 ratio (~450 ppi density)",
+      "": "HDR image support\n* Measured at an isolated spot during video playback only"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, MagicOS 11",
+      "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/1.9, (wide), 1/1.55\", PDAF, OIS\n50 MP, f/2.4, 68mm (telephoto), 1/2.93\", PDAF, OIS, 3x optical zoom\n12 MP, f/2.2, (ultrawide), PDAF",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30/60/120fps, 1080p@30/60fps, gyro-EIS, OIS, HDR"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 21mm (wide), 1/2.88\"",
+      "Features": "HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5, Auracast, ASHA",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Po 11000 mAh",
+      "Charging": "80W wired\n50W wireless\n27W reverse wired\nReverse wireless"
+    },
+    "MISC": {
+      "Colors": "Black, White, Green, Yellow",
+      "Models": "MLM-AN00"
+    }
+  }
+}
