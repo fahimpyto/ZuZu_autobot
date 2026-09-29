@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/motorola_razr_flex_5g-14975.php",
+  "name": "Motorola Razr Flex",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-flex-.jpg",
+  "highlights": [
+    "Not announced yet\n215g, 5.8mm thickness\nAndroid 17\n256GB/512GB storage, no card slot",
+    "N/A\n1,132 HITS",
+    "2\nBECOME A FAN",
+    "6.92\"\n1728x2364 pixels",
+    "50MP\n2160p",
+    "12GB RAM\nSnapdragon 8 Elite Gen 5",
+    "5000mAh\n25W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "Unfolded: 110 x 149 x 5.8 mm\nFolded: 110 x 76 x 12.6 mm",
+      "Weight": "215 g (7.58 oz)",
+      "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time)",
+      "": "IP49 dust and water resistant (dust > 1mm; high pressure water jets; immersible up to 1m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "Foldable OLED, 165Hz, HDR10+",
+      "Size": "6.92 inches, 147.2 cm2 (~89.8% screen-to-body ratio)",
+      "Resolution": "1728 x 2364 pixels, 4:3 ratio (~423 ppi density)",
+      "": "Cover display:\nOLED, 120Hz, 4.97 inches, 1140 x 1736 pixels"
+    },
+    "PLATFORM": {
+      "OS": "Android 17",
+      "Chipset": "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm)",
+      "CPU": "Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840 (1.3GHz)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, (wide), PDAF, OIS\n50 MP, (ultrawide), PDAF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, (ultrawide)\nCover camera:\n32 MP, (wide)",
+      "Features": "HDR",
+      "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh",
+      "Charging": "25W wired"
+    },
+    "MISC": {
+      "Colors": "Pantone: Coriander, Dark Botanical Garden"
+    }
+  }
+}

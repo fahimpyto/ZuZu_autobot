@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, (wide), PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "32 MP, (ultrawide)\nCover camera:\n32 MP, (wide)",
+    "Folded:": "",
+    "Main camera:": "50 MP, (wide), PDAF, OIS",
+    "Second camera:": "50 MP, (ultrawide), PDAF",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "Yes"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Pantone: Coriander, Dark Botanical Garden",
+    "Folded:": "",
+    "Weight:": "215 g (7.58 oz)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "Unfolded: 110 x 149 x 5.8 mm\nFolded: 110 x 76 x 12.6 mm",
+    "Resistance:": "IP49 dust and water resistant (dust > 1mm; high pressure water jets; immersible up to 1m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "5000 mAh",
+    "Charging:": "25W wired",
+    "Max charge speed:": "Wired: 25W"
+  },
+  "Display": {
+    "Size:": "6.92 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1728 x 2364 pixels, 4:3 ratio (~423 ppi density)",
+    "Technology:": "Foldable OLED",
+    "Refresh rate:": "165Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "SIM type:": "Nano-SIM + eSIM + eSIM (max 2 at a time)"
+  },
+  "Hardware": {
+    "OS:": "Android 17",
+    "GPU:": "Adreno 840 (1.3GHz)",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C, OTG",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD"
+  }
+}
