@@ -1,0 +1,80 @@
+{
+  "url": "https://www.gsmarena.com/hmd_vibe_2_pro_5g-14977.php",
+  "name": "HMD Vibe2 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/hmd-vibe2-pro.jpg",
+  "highlights": [
+    "Released 2026, September 29\n197 g\nAndroid 16\n128GB storage, microSDXC",
+    "3.4%\n2,736 HITS",
+    "3\nBECOME A FAN",
+    "6.78\"\n1080x2460 pixels",
+    "64MP\n1080p",
+    "6/8GB RAM\nDimensity 6300",
+    "6000mAh\n33W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 900 / 2100",
+      "4G bands": "1, 3, 5, 8, 28, 40, 41",
+      "5G bands": "1, 3, 5, 8, 28, 40, 77, 78 SA/NSA",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, September 29",
+      "Status": "Available. Released 2026, September 29"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "197 g (6.95 oz)",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.78 inches, 109.2 cm2",
+      "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+      "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 6GB RAM, 128GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "64 MP, (wide), 1/1.73\", PDAF\n2 MP (macro)",
+      "Features": "LED flash, HDR",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "13 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "33W wired"
+    },
+    "MISC": {
+      "Colors": "Silver Mist, Cosmic Purple, Aqua Green",
+      "Price": "About 150 EUR"
+    }
+  }
+}
