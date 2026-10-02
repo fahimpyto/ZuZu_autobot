@@ -1,0 +1,86 @@
+{
+  "url": "https://www.gsmarena.com/vivo_v80_5g-14989.php",
+  "name": "vivo V80",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vio-s80-.jpg",
+  "highlights": [
+    "Not announced yet\n205g or 207g, 7.9mm thickness\nAndroid 17, OriginOS 7\n128GB/256GB/512GB storage, no card slot",
+    "0.7%\n1,070 HITS",
+    "0\nBECOME A FAN",
+    "6.59\"\n1260x2750 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nSnapdragon 7 Gen 4",
+    "7200mAh\n90W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "157.5 x 74.3 x 7.9 mm (6.20 x 2.93 x 0.31 in)",
+      "Weight": "205 g or 207 g (7.23 oz)",
+      "Build": "Glass front, aluminum frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 144Hz, HDR10+, 4320Hz PWM, 5000 nits (peak)",
+      "Size": "6.59 inches, 106.1 cm2 (~90.7% screen-to-body ratio)",
+      "Resolution": "1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, OriginOS 7",
+      "Chipset": "Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm)",
+      "CPU": "Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520)",
+      "GPU": "Adreno 722"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
+      "": "UFS 4.1\nUFS 3.1 (128GB only)"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.7, 73mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom\n8 MP, f/2.2, 15mm, 110˚ (ultrawide)",
+      "Features": "Zeiss optics, Ring-LED flash, panorama, HDR",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, OIS, HDR, LUT"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, AF",
+      "Features": "Zeiss optics, HDR",
+      "Video": "4K@30fps, 1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7200 mAh",
+      "Charging": "90W wired, PD, 50% in 30 min\nReverse wired\nBypass charging"
+    },
+    "MISC": {
+      "Colors": "Sunrise Anthem, Horizon Blue, Stellar Black",
+      "Models": "V2648",
+      "Price": "About 580 EUR"
+    }
+  }
+}

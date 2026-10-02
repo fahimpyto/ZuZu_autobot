@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Flash:": "Zeiss optics, Ring-LED flash, panorama, HDR",
+    "Front:": "50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, AF",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+    "Second camera:": "50 MP, f/2.7, 73mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom",
+    "Third camera:": "8 MP, f/2.2, 15mm, 110˚ (ultrawide)",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 23mm",
+    "Video recording:": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, OIS, HDR, LUT"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Sunrise Anthem, Horizon Blue, Stellar Black",
+    "Folded:": "",
+    "Weight:": "205 g or 207 g (7.23 oz)",
+    "Materials:": "Glass front, aluminum frame, glass back",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity",
+    "Dimensions:": "157.5 x 74.3 x 7.9 mm (6.20 x 2.93 x 0.31 in)",
+    "Resistance:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "7200 mAh",
+    "Charging:": "90W wired, PD, 50% in 30 min\nReverse wired\nBypass charging",
+    "Max charge speed:": "Wired: 90W"
+  },
+  "Display": {
+    "Size:": "6.59 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity",
+    "Resolution:": "1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "144Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "5000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 17, OriginOS 7",
+    "GPU:": "Adreno 722",
+    "RAM:": "8GB",
+    "Processor:": "Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}
