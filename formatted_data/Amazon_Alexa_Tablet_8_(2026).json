@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP, AF",
+    "Flash:": "",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "8 MP, AF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Graphite, Rosette, Teal",
+    "Folded:": "",
+    "Weight:": "329 g (11.61 oz)",
+    "Materials:": "Glass front, aluminum frame, aluminum back",
+    "Biometrics:": "Accelerometer, proximity",
+    "Dimensions:": "-",
+    "Resistance:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "4600 mAh",
+    "Charging:": "18W wired",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "8.7 inches",
+    "Features:": "Accelerometer, proximity",
+    "Resolution:": "1340 x 800 pixels, 5:3 ratio (~179 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "",
+    "4G bands:": "",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "GPU:": "Mali-G57 MC2",
+    "RAM:": "4GB",
+    "Processor:": "MediaTek Kompanio 540 (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Sensors:": "Accelerometer, proximity",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "No",
+    "Bluetooth:": "5.3 A2DP, LE"
+  }
+}
