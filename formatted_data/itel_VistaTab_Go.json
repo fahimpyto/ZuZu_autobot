@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP",
+    "Flash:": "LED flash",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "8 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Gray",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer",
+    "Dimensions:": "-",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "7000 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "8.68 inches",
+    "Features:": "Accelerometer",
+    "Resolution:": "800 x 1340 pixels, 5:3 ratio (~180 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 15 (Go edition)",
+    "GPU:": "Mali-G57 MP1",
+    "RAM:": "4GB",
+    "Processor:": "Unisoc T615 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "64GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with dual speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes, dual-band",
+    "Sensors:": "Accelerometer",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "Unspecified",
+    "Bluetooth:": "5.0, A2DP, LE"
+  }
+}

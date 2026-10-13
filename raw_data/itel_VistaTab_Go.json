@@ -1,0 +1,77 @@
+{
+  "url": "https://www.gsmarena.com/itel_vistatab_go-15007.php",
+  "name": "itel VistaTab Go",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/itel-vista-go.jpg",
+  "highlights": [
+    "Released 2026, September\n\nAndroid 15\n64GB storage, microSDXC",
+    "2.9%\n808 HITS",
+    "1\nBECOME A FAN",
+    "8.68\"\n800x1340 pixels",
+    "8MP\n1080p",
+    "4GB RAM\nUnisoc T615",
+    "7000mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, September",
+      "Status": "Available. Released 2026, September"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 400 nits",
+      "Size": "8.68 inches, 213.9 cm2",
+      "Resolution": "800 x 1340 pixels, 5:3 ratio (~180 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 15 (Go edition)",
+      "Chipset": "Unisoc T615 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "64GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with dual speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes, dual-band",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "Unspecified",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer"
+    },
+    "BATTERY": {
+      "Type": "7000 mAh"
+    },
+    "MISC": {
+      "Colors": "Gray"
+    }
+  }
+}
