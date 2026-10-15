@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.9, 23mm (wide), 1/1.55\", 1.0µm, multi-directional PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "16 MP, f/2.0, 26mm (wide), 1/3.06\", 1.12µm, under display",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.9, 23mm (wide), 1/1.55\", 1.0µm, multi-directional PDAF, OIS",
+    "Second camera:": "50 MP, f/2.0, 13mm (ultrawide), 1/2.88\", 0.61µm, AF",
+    "Third camera:": "Auxiliary lens",
+    "Specifications:": "Aperture size: F/1.9 Focal Length: 23mm",
+    "Video recording:": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Nightfreeze (Transparent Black), Subzero (Transparent Silver), Skyfrost (Blue Transparent)",
+    "Folded:": "",
+    "Weight:": "223 g (7.87 oz)",
+    "Materials:": "Glass front (Gorilla Glass 7i), aluminum frame, glass back (Gorilla Glass 7i)",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "163 x 76 x 8.6 mm (6.42 x 2.99 x 0.34 in)",
+    "Resistance:": "Pressure sensitive zones (700Hz touch-sensing)\nBuilt-in cooling fan (IPX8 water resistant)\nIP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nAviation aluminum middle frame"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "8400 mAh",
+    "Charging:": "120W wired\n80W wireless\n22.5W reverse wired",
+    "Max charge speed:": "Wired: 120WWireless: 80W"
+  },
+  "Display": {
+    "Size:": "6.85 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1216 x 2688 pixels (~431 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "185Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "5000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 17, Redmagic OS 12",
+    "GPU:": "Adreno 850",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6 (2 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (Dolby Atmos)",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2 Gen 2, OTG, accessory connector, DisplayPort",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 3.2 Gen 2, OTG, accessory connector, DisplayPort",
+    "Location:": "GPS (L1+L5), GLONASS, BDS, GALILEO",
+    "Bluetooth:": "6.0, A2DP, LE"
+  }
+}

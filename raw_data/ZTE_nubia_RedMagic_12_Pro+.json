@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/zte_nubia_redmagic_12_pro+_5g_(china)-15013.php",
+  "name": "ZTE nubia RedMagic 12 Pro+",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-nubia-red-magic-12-pro.jpg",
+  "highlights": [
+    "Released 2026, October 15\n223g, 8.6mm thickness\nAndroid 17, Redmagic OS 12\n256GB/512GB/1TB storage, no card slot",
+    "49%\n11,060 HITS",
+    "16\nBECOME A FAN",
+    "6.85\"\n1216x2688 pixels",
+    "50MP\n4320p",
+    "12/16GB RAM\nSnapdragon 8 Elite Extreme Gen 6",
+    "8400mAh\n120W80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, October 15",
+      "Status": "Available. Released 2026, October 15"
+    },
+    "BODY": {
+      "Dimensions": "163 x 76 x 8.6 mm (6.42 x 2.99 x 0.34 in)",
+      "Weight": "223 g (7.87 oz)",
+      "Build": "Glass front (Gorilla Glass 7i), aluminum frame, glass back (Gorilla Glass 7i)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Pressure sensitive zones (700Hz touch-sensing)\nBuilt-in cooling fan (IPX8 water resistant)\nIP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nAviation aluminum middle frame"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 185Hz, PWM, 1900 nits (HBM), 5000 nits (peak)",
+      "Size": "6.85 inches, 113.7 cm2 (~91.8% screen-to-body ratio)",
+      "Resolution": "1216 x 2688 pixels (~431 ppi density)",
+      "Protection": "Corning Gorilla Glass 7i"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, Redmagic OS 12",
+      "Chipset": "Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6 (2 nm)",
+      "CPU": "Octa-core (2x5.01 GHz Prime + 3x4.03 GHz Performance + 3x3.74 GHz Performance)",
+      "GPU": "Adreno 850"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1 Pro"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, 23mm (wide), 1/1.55\", 1.0µm, multi-directional PDAF, OIS\n50 MP, f/2.0, 13mm (ultrawide), 1/2.88\", 0.61µm, AF\nAuxiliary lens",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, f/2.0, 26mm (wide), 1/3.06\", 1.12µm, under display",
+      "Features": "HDR",
+      "Video": "1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (Dolby Atmos)",
+      "3.5mm jack": "Yes",
+      "": "32-bit/384kHz Hi-Res audio\nSnapdragon Sound"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2 Gen 2, OTG, accessory connector, DisplayPort"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 8400 mAh",
+      "Charging": "120W wired\n80W wireless\n22.5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Nightfreeze (Transparent Black), Subzero (Transparent Silver), Skyfrost (Blue Transparent)",
+      "Price": "About 930 EUR"
+    }
+  }
+}
