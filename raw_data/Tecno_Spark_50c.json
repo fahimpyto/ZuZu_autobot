@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/tecno_spark_50c-15016.php",
+  "name": "Tecno Spark 50c",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-50c.jpg",
+  "highlights": [
+    "Released 2026, September\n7.9mm thickness\nAndroid 16, HIOS 16\n64GB/128GB/256GB storage, microSDXC",
+    "11%\n3,787 HITS",
+    "6\nBECOME A FAN",
+    "6.78\"\n720x1600 pixels",
+    "13MP\n1440p",
+    "4GB RAM\nHelio G81",
+    "5200mAh\n15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, September 17",
+      "Status": "Available. Released 2026, September"
+    },
+    "BODY": {
+      "Dimensions": "167.8 x 79.2 x 7.9 mm (6.61 x 3.12 x 0.31 in)",
+      "Weight": "-",
+      "Build": "Glass front, plastic back, plastic frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nDrop resistant up to 1.7m"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz",
+      "Size": "6.78 inches, 111.0 cm2 (~83.5% screen-to-body ratio)",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~259 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, HIOS 16",
+      "Chipset": "Mediatek Helio G81 (12 nm)",
+      "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)",
+      "GPU": "Mali-G52 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 256GB 4GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP",
+      "Features": "Dual-LED",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "FM radio",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5200 mAh",
+      "Charging": "15W wired"
+    },
+    "MISC": {
+      "Colors": "Burgundy Red, Forge Orange, Basalt Titanium, Eclipse Black",
+      "Price": "About 160 EUR"
+    }
+  }
+}
