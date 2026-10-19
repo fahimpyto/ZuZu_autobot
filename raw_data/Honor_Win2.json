@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/honor_win2_5g-15020.php",
+  "name": "Honor Win2",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-win2.jpg",
+  "highlights": [
+    "Not announced yet\n8.3mm thickness\nAndroid 16, MagicOS 10\n256GB/512GB/1TB storage, no card slot",
+    "16%\n4,136 HITS",
+    "10\nBECOME A FAN",
+    "6.89\"\n1272x2800 pixels",
+    "200MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8 Elite Extreme Gen 6",
+    "10100mAh\n100W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Built-in cooling fan\nIP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 185Hz, 5920Hz PWM, HDR Vivid, 2000 nits (HBM), 6000 nits (peak)",
+      "Size": "6.89 inches, 115.3 cm2 (~92.3% screen-to-body ratio)",
+      "Resolution": "1272 x 2800 pixels (~446 ppi density)",
+      "Protection": "Scratch/drop-resistant glass",
+      "": "Ultra HDR image support"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6 (2 nm)",
+      "CPU": "Octa-core (2x5.01 GHz Prime + 3x4.03 GHz Performance + 3x3.74 GHz Performance)",
+      "GPU": "Adreno 850"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.1"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/1.8, (wide), 1/1.4\", PDAF, OIS\n50 MP, f/2.4, (telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 3x optical zoom\n12 MP, f/2.2, 112˚ (ultrawide), AF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 22mm (wide)",
+      "Video": "4K@30/60fps, 1080p@30fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, hotspot",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5, Auracast, ASHA",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L1+L5)",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity (ultrasound)"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Po 10100 mAh",
+      "Charging": "100W wired\n50W wireless\n27W reverse wired\nReverse wireless"
+    },
+    "MISC": {
+      "Colors": "Black, White, Blue/Red"
+    }
+  }
+}
