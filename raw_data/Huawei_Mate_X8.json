@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/huawei_mate_x8_5g-15022.php",
+  "name": "Huawei Mate X8",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-mate-x7.jpg",
+  "highlights": [
+    "Not announced yet\n4.5mm thickness\nEMUI 16, HarmonyOS 7.0\n256GB/512GB/1TB storage, no card slot",
+    "3.7%\n1,196 HITS",
+    "1\nBECOME A FAN",
+    "8.15\"\n2210x2416 pixels",
+    "50MP\n2160p",
+    "12-20GB RAM\nKirin 9050 or Kirin 9050 Pro",
+    "6000mAh\n66W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "CDMA2000 1xEV-DO",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA - China model only",
+      "Speed": "HSPA, LTE, 5G (China only)"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, nylon fiber or silicone polymer back (eco leather), aluminum frame",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International\n· Nano-SIM + Nano-SIM - China",
+      "": "IP58/IP59 dust protected and water resistant (high pressure water jets; immersible up to 2m for 30 min)\nAerospace-grade aluminum"
+    },
+    "DISPLAY": {
+      "Type": "Foldable LTPO OLED, 1B colors, 120Hz, 1440Hz PWM, HDR Vivid, 2500 nits (peak)",
+      "Size": "8.15 inches, 213.4 cm2 (~94.4% screen-to-body ratio)",
+      "Resolution": "2210 x 2416 pixels (~402 ppi density)",
+      "": "Privacy Display (optional)\nCover display:\nLTPO OLED, 120Hz, 1440Hz PWM, HDR, 3000 nits (peak), 6.49 inches, 1080 x 2444 pixels, Kunlun Glass 2, 412 ppi"
+    },
+    "PLATFORM": {
+      "OS": "EMUI 16 (International), HarmonyOS 7.0 (China)",
+      "Chipset": "Kirin 9050 or Kirin 9050 Pro"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM, 1TB 20GB RAM",
+      "": "UFS 4.x"
+    },
+    "MAIN CAMERA": {
+      "Triple": "50 MP, f/1.5-f/4.0, 24mm (wide), 1/1.28\", PDAF, OIS\n50 MP, f/2.2, 81mm (periscope telephoto), PDAF, OIS, 3.5x optical zoom\n40 MP, f/2.2, 13mm, 120˚ (ultrawide), PDAF",
+      "Features": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+      "Video": "4K, 1080p, 1080p@960fps, HDR, gyro-EIS, OIS, HDR Vivid"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.2, (wide)\nCover camera:\n8 MP, f/2.4, (wide)",
+      "Features": "HDR, panorama",
+      "Video": "4K, 1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, L2HC",
+      "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1, OTG, DisplayPort 1.2"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+      "": "BDS Satellite and Messaging - China only"
+    },
+    "BATTERY": {
+      "Type": "6000 mAh",
+      "Charging": "66W wired\n50W wireless\n7.5W reverse wireless\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Red, Purple, Blue"
+    }
+  }
+}
