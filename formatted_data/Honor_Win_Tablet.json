@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "13 MP, f/2.0, (wide), AF",
+    "Flash:": "LED flash",
+    "Front:": "8 MP, f/2.0, (wide)",
+    "Folded:": "",
+    "Main camera:": "13 MP, f/2.0, (wide), AF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/2.0",
+    "Video recording:": "4K@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Silver",
+    "Folded:": "",
+    "Weight:": "315 g (11.11 oz)",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer, proximity (accessories only), gyro",
+    "Dimensions:": "189.3 x 121.5 x 6.1 mm (7.45 x 4.78 x 0.24 in)",
+    "Resistance:": "Built-in cooling fan"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Po",
+    "Capacity:": "10000 mAh",
+    "Charging:": "66W wired\n27W reverse wired",
+    "Max charge speed:": "Wired: 66W"
+  },
+  "Display": {
+    "Size:": "8.4 inches",
+    "Features:": "Accelerometer, proximity (accessories only), gyro",
+    "Resolution:": "2304 x 1440 pixels, 16:10 ratio (~323 ppi density)",
+    "Technology:": "OLED",
+    "Refresh rate:": "240Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "6000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 17, MagicOS 11",
+    "GPU:": "Adreno 840",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.2 Gen2, OTG, DisplayPort 1.2",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Sensors:": "Accelerometer, proximity (accessories only), gyro",
+    "Features:": "USB Type-C 3.2 Gen2, OTG, DisplayPort 1.2",
+    "Location:": "No",
+    "Bluetooth:": "6.0, A2DP, LE, AptX HD, AptX Adaptive, aptX Lossless, LHDC 5.0, Auracast"
+  }
+}
