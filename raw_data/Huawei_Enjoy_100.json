@@ -1,0 +1,79 @@
+{
+  "url": "https://www.gsmarena.com/huawei_enjoy_100-15037.php",
+  "name": "Huawei Enjoy 100",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-enjoy-100.jpg",
+  "highlights": [
+    "Not announced yet\n\nHarmonyOS 7.0\n128GB/256GB storage, no card slot",
+    "4.0%\n911 HITS",
+    "1\nBECOME A FAN",
+    "6.56\"\n720x1604 pixels",
+    "13MP",
+    "4/6GB RAM\nKirin 8000S",
+    "6100mAh\n40W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, plastic back, plastic frame",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.8m"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 120Hz, 850 nits (HBM)",
+      "Size": "6.56 inches, 103.7 cm2",
+      "Resolution": "720 x 1604 pixels, 20:9 ratio (~268 ppi density)",
+      "Protection": "Aluminosilicate glass"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 7.0",
+      "Chipset": "Kirin 8000S"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 6GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, f/1.8, (wide), AF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, (wide)",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+      "Bluetooth": "6.0, A2DP, LE, L2HC",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "6100 mAh",
+      "Charging": "40W wired\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Black, White, Orange"
+    }
+  }
+}
