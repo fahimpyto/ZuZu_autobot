@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/apple_ipad_mini_(2026)-15039.php",
+  "name": "Apple iPad mini (2026)",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/ipad-mini-a20-pro.jpg",
+  "highlights": [
+    "Exp. release 2026, November 06\n255g (Wi-Fi) / 263g (Wi-Fi + Cellular), 5.4mm thickness\niPadOS 27\n128GB/256GB/512GB storage, no card slot",
+    "53%\n13,901 HITS",
+    "10\nBECOME A FAN",
+    "8.5\"\n1512x2316 pixels",
+    "12MP\n2160p",
+    "Apple A20 Pro",
+    ""
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71, 106 - A3596",
+      "": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71, 106 - A3597",
+      "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 75, 77, 78, 79 SA/NSA - A3596, A3597",
+      "Speed": "HSPA, LTE, 5G - cellular model only"
+    },
+    "LAUNCH": {
+      "Announced": "2026, October 26",
+      "Status": "Coming soon. Exp. release 2026, November 06"
+    },
+    "BODY": {
+      "Dimensions": "195.3 x 132.6 x 5.4 mm (7.69 x 5.22 x 0.21 in)",
+      "Weight": "255 g (Wi-Fi) / 263 g (Wi-Fi + Cellular) (8.99 oz)",
+      "Build": "Glass front, aluminum back, aluminum frame",
+      "SIM": "eSIM (cellular model only)",
+      "": "IP67 dust tight and water resistant (immersible up to 1m for 30 min)\nStylus support"
+    },
+    "DISPLAY": {
+      "Type": "Super Retina XDR OLED, 600 nits (typ), 1200 nits (HBM)",
+      "Size": "8.5 inches, 213.4 cm2 (~82.4% screen-to-body ratio)",
+      "Resolution": "1512 x 2316 pixels, 3:2 ratio (~325 ppi density)",
+      "": "Anti-reflective coating\nNano-texture display glass (optional)"
+    },
+    "PLATFORM": {
+      "OS": "iPadOS 27",
+      "Chipset": "Apple A20 Pro (2 nm)",
+      "CPU": "Penta-core (2x super cores + 3x efficiency cores) - 128/256GB\nHexa-core (2x super cores + 4x efficiency cores) - 512GB",
+      "GPU": "Apple GPU (7-core graphics)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB, 256GB, 512GB"
+    },
+    "MAIN CAMERA": {
+      "Single": "12 MP, f/1.8, (wide), AF",
+      "Features": "Multi-focus LED flash, HDR, panorama",
+      "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "12 MP, f/2.0, 122˚ (ultrawide)",
+      "Features": "HDR",
+      "Video": "1080p@25/30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No",
+      "": "Stereo audio using Acoustic Display"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, hotspot",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS, GLONASS - cellular model only",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1 Gen2, DisplayPort"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion (18.9 Wh)",
+      "Charging": "Wired, 50% in 30 min"
+    },
+    "MISC": {
+      "Colors": "Midnight, Starlight",
+      "Models": "A3596, A3597",
+      "Price": "About 750 EUR"
+    }
+  }
+}
