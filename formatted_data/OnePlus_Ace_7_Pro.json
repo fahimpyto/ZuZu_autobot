@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "200 MP, f/1.8, 23mm (wide), 1/1.56\", 0.5µm, PDAF, OIS",
+    "Flash:": "Color spectrum sensor, LED flash, HDR, panorama",
+    "Front:": "16 MP, f/2.4, 23mm (wide), 1/3\", 1.0µm",
+    "Folded:": "",
+    "Main camera:": "200 MP, f/1.8, 23mm (wide), 1/1.56\", 0.5µm, PDAF, OIS",
+    "Second camera:": "50 MP, f/2.8, 80mm (periscope telephoto), PDAF, OIS, 3.5x optical zoom",
+    "Third camera:": "",
+    "Specifications:": "Aperture size: F/1.8 Focal Length: 23mm",
+    "Video recording:": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, White, Blue",
+    "Folded:": "",
+    "Weight:": "218 g or 225 g (7.69 oz)",
+    "Materials:": "Glass front (Crystal Shield Glass), aluminum frame, glass back or glass-fiber reinforced plastic back",
+    "Biometrics:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Dimensions:": "162.3 x 77.4 x 8.5 mm (6.39 x 3.05 x 0.33 in)",
+    "Resistance:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nBuilt-in bi-directional cooling fan"
+  },
+  "Battery": {
+    "Type:": "Si/C Li-Ion",
+    "Capacity:": "9000 mAh",
+    "Charging:": "100W wired, 44W/100W UFCS, 55W PPS, 18W PD/QC, 60% in 30 min\nBypass charging",
+    "Max charge speed:": "Wired: 100W"
+  },
+  "Display": {
+    "Size:": "6.78 inches",
+    "Features:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Resolution:": "1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)",
+    "Technology:": "LTPO AMOLED",
+    "Refresh rate:": "185Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "2000 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+    "5G bands:": "1, 3, 5, 8, 18, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78 SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 17, ColorOS 17",
+    "GPU:": "Adreno 840",
+    "RAM:": "12GB",
+    "Processor:": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS (L1+L2+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+  }
+}
