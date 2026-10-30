@@ -1,0 +1,79 @@
+{
+  "url": "https://www.gsmarena.com/nokia_2360_flip-15048.php",
+  "name": "Nokia 2360 Flip",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2360-flip.jpg",
+  "highlights": [
+    "Exp. release 2026, November\n121g, 19mm thickness\nFeature phone\n4MB 4MB RAM storage, microSDHC slot",
+    "4.6%\n1,020 HITS",
+    "1\nBECOME A FAN",
+    "2.8\"\n240x320 pixels",
+    "0.1MP",
+    "4MB RAM",
+    "1450mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "Yes",
+      "EDGE": "Yes"
+    },
+    "LAUNCH": {
+      "Announced": "2026, October 30",
+      "Status": "Coming soon. Exp. release 2026, November"
+    },
+    "BODY": {
+      "Dimensions": "111.9 x 55.6 x 19 mm (4.41 x 2.19 x 0.75 in)",
+      "Weight": "121 g (4.27 oz)",
+      "SIM": "Mini-SIM + Mini-SIM",
+      "": "Dedicated SOS button"
+    },
+    "DISPLAY": {
+      "Type": "TFT",
+      "Size": "2.8 inches, 24.3 cm2 (~39.0% screen-to-body ratio)",
+      "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+      "": "Secondary external 1.77\" display"
+    },
+    "MEMORY": {
+      "Card slot": "microSDHC",
+      "Phonebook": "Yes",
+      "Call records": "Yes",
+      "Internal": "4MB 4MB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "QVGA",
+      "Features": "LED flash",
+      "Video": "Unspecified"
+    },
+    "SELFIE CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "Unspecified",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C"
+    },
+    "FEATURES": {
+      "Sensors": "",
+      "Messaging": "SMS, MMS",
+      "Games": "Yes",
+      "Java": "No",
+      "": "Family Assist: Remote device management by family members"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 1450 mAh, removable"
+    },
+    "MISC": {
+      "Colors": "Burgundy Red, Charcoal, Teal"
+    }
+  }
+}

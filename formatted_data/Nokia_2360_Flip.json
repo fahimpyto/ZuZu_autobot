@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "QVGA",
+    "Flash:": "LED flash",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "QVGA",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "Unspecified"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Burgundy Red, Charcoal, Teal",
+    "Folded:": "",
+    "Weight:": "121 g (4.27 oz)",
+    "Materials:": "",
+    "Biometrics:": "",
+    "Dimensions:": "111.9 x 55.6 x 19 mm (4.41 x 2.19 x 0.75 in)",
+    "Resistance:": "Dedicated SOS button"
+  },
+  "Battery": {
+    "Type:": "Li-Ion , removable",
+    "Capacity:": "1450 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "2.8 inches",
+    "Features:": "",
+    "Resolution:": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+    "Technology:": "TFT",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "5G bands:": "",
+    "SIM type:": "Mini-SIM + Mini-SIM"
+  },
+  "Hardware": {
+    "OS:": "",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "",
+    "Features:": "USB Type-C",
+    "Location:": "No",
+    "Bluetooth:": "Unspecified"
+  }
+}
