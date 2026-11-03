@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/vivo_v80_fe_5g-15061.php",
+  "name": "vivo V80 FE",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v80-fe.jpg",
+  "highlights": [
+    "Exp. release 2026, November\n201g, 7.8mm thickness\nAndroid 17, OriginOS 7\n128GB/256GB storage, no card slot",
+    "22%\n4,300 HITS",
+    "5\nBECOME A FAN",
+    "6.59\"\n1260x2750 pixels",
+    "50MP\n2160p",
+    "8GB RAM\nDimensity 7400 Turbo",
+    "7000mAh\n90W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 19, 20, 25, 28, 32, 38, 40, 41, 42, 43, 48, 66",
+      "5G bands": "1, 2, 3, 5, 7, 8, 20, 25, 28, 38, 40, 41, 48, 66, 75, 77, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, November 03",
+      "Status": "Coming soon. Exp. release 2026, November"
+    },
+    "BODY": {
+      "Dimensions": "157.8 x 74.5 x 7.8 mm (6.21 x 2.93 x 0.31 in)",
+      "Weight": "201 g (7.09 oz)",
+      "Build": "Glass front, plastic frame, glass back",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 2 hours)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, HDR10+, 1800 nits (HBM), 3000 nits (peak)",
+      "Size": "6.59 inches, 106.1 cm2 (~90.3% screen-to-body ratio)",
+      "Resolution": "1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, OriginOS 7",
+      "Chipset": "Mediatek Dimensity 7400 Turbo (4 nm)",
+      "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "GPU": "Mali-G615 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, 24mm (wide), 1/1.56\", PDAF, OIS\n50 MP, f/2.1, 120˚ (ultrawide), AF",
+      "Features": "Ring-LED flash, HDR, panorama",
+      "Video": "4K, 1080p, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 21mm (wide), AF",
+      "Video": "4K, 1080p"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Yes, dual-band",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+      "NFC": "Yes (market/region dependent)",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 7000 mAh",
+      "Charging": "90W wired, 100% in 60 min\nReverse wired\nBypass Charging"
+    },
+    "MISC": {
+      "Colors": "Chill Green, Sparkling Gold"
+    }
+  }
+}
