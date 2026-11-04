@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, AF",
+    "Flash:": "LED flash",
+    "Front:": "8 MP",
+    "Folded:": "",
+    "Main camera:": "50 MP, AF",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "Yes"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black",
+    "Folded:": "",
+    "Weight:": "-",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted)",
+    "Dimensions:": "168 x 77.5 x 8.6 mm (6.61 x 3.05 x 0.34 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "5700 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "6.75 inches",
+    "Features:": "Fingerprint (side-mounted)",
+    "Resolution:": "720 x 1612 pixels, 20:9 ratio (~262 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 26, 28, 34, 38, 39, 40, 41, 66",
+    "5G bands:": "1, 28, 41, 78 SA/NSA",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "GPU:": "",
+    "RAM:": "6GB",
+    "Processor:": "Spreadtrum",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0",
+    "Other:": "NFC",
+    "Wi-Fi:": "Yes",
+    "Sensors:": "Fingerprint (side-mounted)",
+    "Features:": "USB Type-C 2.0",
+    "Location:": "GPS",
+    "Bluetooth:": "Yes"
+  }
+}

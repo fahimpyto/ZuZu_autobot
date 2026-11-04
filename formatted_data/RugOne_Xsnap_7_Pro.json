@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.9, (wide), 1.0µm, PDAF",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "32 MP, f/2.5, (wide), 0.7µm",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.9, (wide), 1.0µm, PDAF",
+    "Second camera:": "64 MP, f/2.0, (night vision), 4 infrared lights",
+    "Third camera:": "Detachable camera:",
+    "Specifications:": "Aperture size: F/1.9",
+    "Video recording:": "4K@30/60fps, 1440p@30/60fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black, Sand Dune",
+    "Folded:": "",
+    "Weight:": "477 g (1.05 lb)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "172.5 x 83.4 x 19.1 mm (6.79 x 3.28 x 0.75 in)",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 2m for 30 min)\nDrop resistant up to 1.5m\nMIL-STD-810H compliant\nDetachable Magnetic Action Camera"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "9300 mAh",
+    "Charging:": "45W wired\n50W wireless\n10W reverse wired",
+    "Max charge speed:": "Wired: 45WWireless: 50W"
+  },
+  "Display": {
+    "Size:": "6.67 inches",
+    "Features:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+    "Technology:": "AMOLED",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1700 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 66, 71",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 3 major OS updates",
+    "GPU:": "G720 MC7",
+    "RAM:": "12GB",
+    "Processor:": "Mediatek Dimensity 8400 (4 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "512GB (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6, tri-band",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C 2.0, OTG",
+    "Location:": "GPS, GALILEO, GLONASS, BDS, QZSS, NavlC",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}
