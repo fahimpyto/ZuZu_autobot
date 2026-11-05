@@ -1,0 +1,79 @@
+{
+  "url": "https://www.gsmarena.com/philips_s7210_5g-15068.php",
+  "name": "Philips S7210",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/philips-s7210.jpg",
+  "highlights": [
+    "Released 2026, June\n203g, 8.6mm thickness\nAndroid 16\n128GB storage, microSDXC",
+    "5.4%\n1,132 HITS",
+    "0\nBECOME A FAN",
+    "6.75\"\n720x1612 pixels",
+    "50MP\n1080p",
+    "4-8GB RAM\nUnisoc T765",
+    "5700mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 26, 28, 34, 38, 39, 40, 41, 66",
+      "5G bands": "1, 28, 41, 78 SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, June",
+      "Status": "Available. Released 2026, June"
+    },
+    "BODY": {
+      "Dimensions": "168 x 77.5 x 8.6 mm (6.61 x 3.05 x 0.34 in)",
+      "Weight": "203 g (7.16 oz)",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD",
+      "Size": "6.75 inches, 109.5 cm2 (~84.1% screen-to-body ratio)",
+      "Resolution": "720 x 1612 pixels, 20:9 ratio (~262 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16",
+      "Chipset": "Unisoc T765 (6 nm)",
+      "CPU": "Octa-core (2x2.3 GHz Cortex-A76 & 6x2.1 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, AF",
+      "Features": "LED flash",
+      "Video": "Yes"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP",
+      "Video": "Yes"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Radio": "Unspecified",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted)"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 5700 mAh"
+    },
+    "MISC": {
+      "Colors": "Black, Titan",
+      "Price": "About 150 EUR"
+    }
+  }
+}
