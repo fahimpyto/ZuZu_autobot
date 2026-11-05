@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "",
+    "Flash:": "",
+    "Front:": "",
+    "Folded:": "",
+    "Main camera:": "",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": ""
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Pantone: Tracing Gray, Elegance",
+    "Folded:": "",
+    "Weight:": "28 g (0.99 oz)",
+    "Materials:": "Glass front (Gorilla Glass 3), aluminum frame, plastic back",
+    "Biometrics:": "Accelerometer, gyro, compass, PPG (SpO2, heart rate)",
+    "Dimensions:": "42.9 x 38.7 x 10 mm (1.69 x 1.52 x 0.39 in)",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n5 ATM"
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "400 mAh",
+    "Charging:": "",
+    "Max charge speed:": ""
+  },
+  "Display": {
+    "Size:": "1.85 inches",
+    "Features:": "Accelerometer, gyro, compass, PPG (SpO2, heart rate)",
+    "Resolution:": "390 x 450 pixels (~322 ppi density)",
+    "Technology:": "LTPO OLED",
+    "Refresh rate:": "",
+    "Screen-to-body:": "",
+    "Peak brightness:": "1500 cd/m2 (nit)",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "",
+    "4G bands:": "",
+    "5G bands:": "",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "RTOS",
+    "GPU:": "",
+    "RAM:": "",
+    "Processor:": "",
+    "Device type:": "Smartphone",
+    "Internal storage:": " (UFS), not expandable"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "No",
+    "Other:": "NFC",
+    "Wi-Fi:": "No",
+    "Sensors:": "Accelerometer, gyro, compass, PPG (SpO2, heart rate)",
+    "Features:": "No",
+    "Location:": "GPS (L1+L5)",
+    "Bluetooth:": "5.4, A2DP, LE"
+  }
+}
