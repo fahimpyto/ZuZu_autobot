@@ -1,0 +1,89 @@
+{
+  "url": "https://www.gsmarena.com/samsung_galaxy_s27_ultra_5g-15075.php",
+  "name": "Samsung Galaxy S27 Ultra",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s27-ultra-r.jpg",
+  "highlights": [
+    "Not announced yet\n8mm thickness\nAndroid 17, One UI 9.5\n256GB/512GB/1TB storage, no card slot",
+    "18%\n5,305 HITS",
+    "10\nBECOME A FAN",
+    "6.9\"\n1440x3120 pixels",
+    "200MP\n4320p",
+    "12/16GB RAM\nSnapdragon 8 Elite Extreme Gen 6",
+    "5700mAh\n60W25W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "- International",
+      "": "SA/NSA/Sub6/mmWave - USA unlocked",
+      "5G bands": "SA/NSA/Sub6 - International",
+      "Speed": "HSPA, LTE (CA), 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "163.8 x 78.3 x 8 mm (6.45 x 3.08 x 0.31 in)",
+      "Weight": "-",
+      "Build": "Glass front (Corning Gorilla Armor 2), glass back (Corning Gorilla Armor 2), aluminum frame",
+      "SIM": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT\n· Nano-SIM + eSIM + eSIM (max 2 at a time) - USA\n· Nano-SIM + Nano-SIM - CN",
+      "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nStylus\nArmor Aluminum 2"
+    },
+    "DISPLAY": {
+      "Type": "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+",
+      "Size": "6.9 inches, 116.9 cm2 (~91.1% screen-to-body ratio)",
+      "Resolution": "1440 x 3120 pixels, 19.5:9 ratio (~498 ppi density)",
+      "Protection": "Corning Gorilla Armor 2",
+      "": "DX anti-reflective coating\nPrivacy Display"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, One UI 9.5, up to 7 major OS updates",
+      "Chipset": "Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6 (2 nm)",
+      "CPU": "Octa-core (2x5.01 GHz Prime + 3x4.03 GHz Performance + 3x3.74 GHz Performance)",
+      "GPU": "Adreno 850"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM",
+      "": "UFS 4.X"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/1.4, 23mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS\n50 MP, (periscope telephoto), 1/2.55\", 0.7µm, PDAF, OIS, 5x optical zoom\n50 MP, f/1.9, 120˚ (ultrawide), 1/2.5\", 0.7µm, dual pixel PDAF, Super Steady video",
+      "Features": "Laser AF, Best Face, Horizon Lock, LED flash, auto-HDR, panorama",
+      "Video": "8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "16 MP, (wide), 1/2.6\", PDAF",
+      "Features": "HDR, HDR10+",
+      "Video": "4K@30/60fps, 1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "High-bitrate audio support"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2, DisplayPort 1.2, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+      "": "Samsung DeX, Samsung Wireless DeX (desktop experience support)\nUltra Wideband (UWB) support"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 5700 mAh",
+      "Charging": "60W wired, PD3.0\n25W wireless (Qi2.2)\n4.5W reverse wireless"
+    },
+    "MISC": {
+      "Colors": "Black; other colors",
+      "Models": "SM-S958B, SM-S958B/DS, SM-S958U, SM-S958U1, SM-S958W, SM-S958N, SM-S9580, SM-S958E, SM-S958E/DS"
+    }
+  }
+}
