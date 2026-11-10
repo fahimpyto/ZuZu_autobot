@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/infinix_xpad_edge-15076.php",
+  "name": "Infinix Xpad Edge",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-xpad-edge.jpg",
+  "highlights": [
+    "Released 2025, December\n588g, 6.2mm thickness\nAndroid 15\n128GB/256GB storage, microSDXC",
+    "1.7%\n519 HITS",
+    "0\nBECOME A FAN",
+    "13.2\"\n1600x2400 pixels",
+    "8MP\n1080p",
+    "4/8GB RAM\nSnapdragon SD685",
+    "8000mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 38, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2025, December 18",
+      "Status": "Available. Released 2025, December"
+    },
+    "BODY": {
+      "Dimensions": "298.4 x 202.6 x 6.2 mm (11.75 x 7.98 x 0.24 in)",
+      "Weight": "588 g (1.30 lb)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "Nano-SIM",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 450 nits",
+      "Size": "13.2 inches, 518.8 cm2 (~85.8% screen-to-body ratio)",
+      "Resolution": "1600 x 2400 pixels, 3:2 ratio (~219 ppi density)",
+      "Protection": "Panda MN228"
+    },
+    "PLATFORM": {
+      "OS": "Android 15",
+      "Chipset": "Qualcomm Snapdragon SD685 (6 nm)",
+      "CPU": "Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)",
+      "GPU": "Adreno 610"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm, AF",
+      "Features": "LED flash, panorama",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.2, (wide), 1/4.0\", 1.12µm",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, proximity (accessories only)"
+    },
+    "BATTERY": {
+      "Type": "8000 mAh",
+      "Charging": "18W wired\n7.5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Celestial Ink",
+      "Models": "X1302",
+      "Price": "About 280 EUR"
+    }
+  }
+}
