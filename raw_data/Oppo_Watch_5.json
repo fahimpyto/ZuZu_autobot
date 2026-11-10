@@ -1,0 +1,72 @@
+{
+  "url": "https://www.gsmarena.com/oppo_watch_5-15073.php",
+  "name": "Oppo Watch 5",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-watch5.jpg",
+  "highlights": [
+    "Not announced yet\n25g, 9.2mm thickness\nColorOS Watch\nNo card slot",
+    "4.2%\n1,158 HITS",
+    "1\nBECOME A FAN",
+    "1.75\"\n372x430 pixels",
+    "NO",
+    "Snapdragon W5+ Gen 1",
+    ""
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "HSPA / LTE",
+      "2G bands": "N/A",
+      "3G bands": "HSDPA 850 / 900 / 2100 - cellular model only",
+      "4G bands": "LTE - cellular model only",
+      "Speed": "HSPA, LTE - cellular model only"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored. Exp. release 2026, November"
+    },
+    "BODY": {
+      "Dimensions": "9.2 mm thickness",
+      "Weight": "25 g (0.88 oz)",
+      "Build": "Glass front, aluminum frame",
+      "SIM": "eSIM (market/region dependent) - cellular model only",
+      "": "5ATM water resistant"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED",
+      "Size": "1.75 inches",
+      "Resolution": "372 x 430 pixels (~325 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "ColorOS Watch",
+      "Chipset": "Qualcomm Snapdragon W5+ Gen 1 (4 nm)",
+      "CPU": "Quad-core 1.7 GHz Cortex-A53",
+      "GPU": "Adreno A702"
+    },
+    "MEMORY": {
+      "Card slot": "No"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, compass, barometer, SpO2"
+    },
+    "BATTERY": {
+      "Type": ""
+    },
+    "MISC": {
+      "Colors": "Gray, Silver"
+    }
+  }
+}
