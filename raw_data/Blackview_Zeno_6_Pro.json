@@ -1,0 +1,87 @@
+{
+  "url": "https://www.gsmarena.com/blackview_zeno_6_pro-15082.php",
+  "name": "Blackview Zeno 6 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/blackview-zeno6-pro.jpg",
+  "highlights": [
+    "Released 2026, November\n513g, 8.4mm thickness\nAndroid 16, DokeOS_P 5\n256GB storage, microSDXC",
+    "2.0%\n757 HITS",
+    "0\nBECOME A FAN",
+    "11.0\"\n1600x2300 pixels",
+    "13MP\n1440p",
+    "8/12GB RAM\nSnapdragon 4 Gen 2",
+    "8300mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, November",
+      "Status": "Available. Released 2026, November"
+    },
+    "BODY": {
+      "Dimensions": "246.4 x 177.3 x 8.4 mm (9.70 x 6.98 x 0.33 in)",
+      "Weight": "513 g (1.13 lb)",
+      "SIM": "Nano-SIM + Nano-SIM",
+      "": "Stylus support"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz, 350 nits",
+      "Size": "11.0 inches, 366.0 cm2 (~83.8% screen-to-body ratio)",
+      "Resolution": "1600 x 2300 pixels (~255 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, DokeOS_P 5",
+      "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
+      "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
+      "GPU": "Adreno 613"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "256GB 8GB RAM, 256GB 12GB RAM",
+      "": "UFS 2.2"
+    },
+    "MAIN CAMERA": {
+      "Single": "13 MP, f/1.8, AF",
+      "Features": "LED flash, HDR",
+      "Video": "1440p@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.0, 1/4.0\"",
+      "Features": "HDR",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+      "NFC": "No",
+      "Radio": "FM Radio",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint, accelerometer, proximity"
+    },
+    "BATTERY": {
+      "Type": "8300 mAh",
+      "Charging": "18W wired"
+    },
+    "MISC": {
+      "Colors": "Interstellar Black, Glacier Blue"
+    },
+    "EU LABEL": {
+      "Energy": "Class B",
+      "Battery": "222:25h endurance, 800 cycles",
+      "Free fall": "Class A (208 falls)",
+      "Repairability": "Class B"
+    }
+  }
+}
