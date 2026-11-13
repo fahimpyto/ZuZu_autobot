@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "8 MP",
+    "Flash:": "",
+    "Front:": "5 MP",
+    "Folded:": "",
+    "Main camera:": "8 MP",
+    "Second camera:": "",
+    "Third camera:": "",
+    "Specifications:": "",
+    "Video recording:": "4K@30/60fps, 1080p@30/60fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Sunset Orange, Space Grey",
+    "Folded:": "",
+    "Weight:": "567 g (1.25 lb)",
+    "Materials:": "",
+    "Biometrics:": "Accelerometer",
+    "Dimensions:": "257 x 168.6 x 8.4 mm (10.12 x 6.64 x 0.33 in)",
+    "Resistance:": ""
+  },
+  "Battery": {
+    "Type:": "",
+    "Capacity:": "8300 mAh",
+    "Charging:": "18W wired\n10W reverse wired",
+    "Max charge speed:": "Wired: 18W"
+  },
+  "Display": {
+    "Size:": "11.0 inches",
+    "Features:": "Accelerometer",
+    "Resolution:": "800 x 1280 pixels, 16:10 ratio (~137 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "90Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 40, 41, 66",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM"
+  },
+  "Hardware": {
+    "OS:": "Android 16, DokeOS_P 5.0",
+    "GPU:": "Mali-G57 MP1",
+    "RAM:": "3GB",
+    "Processor:": "Unisoc T7250 (12 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "128GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers",
+    "Headphones:": "Yes",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C, OTG",
+    "Other:": "NFC",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Accelerometer",
+    "Features:": "USB Type-C, OTG",
+    "Location:": "GPS, GLONASS, GALILEO, BDS",
+    "Bluetooth:": "5.0"
+  }
+}

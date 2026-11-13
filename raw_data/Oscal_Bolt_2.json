@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/oscal_bolt_2-15084.php",
+  "name": "Oscal Bolt 2",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/oscal-bolt2.jpg",
+  "highlights": [
+    "Released 2026, October 13\n567g, 8.4mm thickness\nAndroid 16, DokeOS_P 5.0\n128GB storage, microSDXC",
+    "1.0%\n462 HITS",
+    "1\nBECOME A FAN",
+    "11.0\"\n800x1280 pixels",
+    "8MP\n2160p",
+    "3/8GB RAM\nUnisoc T7250",
+    "8300mAh\n18W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 40, 41, 66",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, September, 22",
+      "Status": "Available. Released 2026, October 13"
+    },
+    "BODY": {
+      "Dimensions": "257 x 168.6 x 8.4 mm (10.12 x 6.64 x 0.33 in)",
+      "Weight": "567 g (1.25 lb)",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 90Hz",
+      "Size": "11.0 inches, 350.9 cm2 (~81.0% screen-to-body ratio)",
+      "Resolution": "800 x 1280 pixels, 16:10 ratio (~137 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, DokeOS_P 5.0",
+      "Chipset": "Unisoc T7250 (12 nm)",
+      "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "GPU": "Mali-G57 MP1"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (uses shared SIM slot)",
+      "Internal": "128GB 3GB RAM, 128GB 8GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP",
+      "Video": "4K@30/60fps, 1080p@30/60fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "1080p@30/60fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer"
+    },
+    "BATTERY": {
+      "Type": "8300 mAh",
+      "Charging": "18W wired\n10W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Sunset Orange, Space Grey",
+      "SAR": "0.84 W/kg (body)",
+      "Price": "About 200 EUR"
+    },
+    "EU LABEL": {
+      "Energy": "Class D",
+      "Battery": "141:14h endurance, 800 cycles",
+      "Free fall": "Class C (104 falls)",
+      "Repairability": "Class B"
+    }
+  }
+}
