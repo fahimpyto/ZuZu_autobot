@@ -1,0 +1,85 @@
+{
+  "url": "https://www.gsmarena.com/honor_700_5g-15086.php",
+  "name": "Honor 700",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-700.jpg",
+  "highlights": [
+    "Not announced yet\n211g, 8mm thickness\nAndroid 17, up to 6 major OS updates\n256GB/512GB storage, no card slot",
+    "46%\n15,097 HITS",
+    "20\nBECOME A FAN",
+    "6.57\"\n1264x2728 pixels",
+    "200MP\n2160p",
+    "12/16GB RAM\nSnapdragon 8s Gen 4",
+    "9000mAh\n80W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "156 x 74.7 x 8 mm (6.14 x 2.94 x 0.31 in)",
+      "Weight": "211 g (7.44 oz)",
+      "Build": "Glass front, glass back, aluminum frame",
+      "SIM": "· Nano-SIM + eSIM\n· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+      "": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR Vivid",
+      "Size": "6.57 inches, 106.2 cm2 (~91.2% screen-to-body ratio)",
+      "Resolution": "1264 x 2728 pixels, 19.5:9 ratio (~458 ppi density)",
+      "": "1.72 inches rear display"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, up to 6 major OS updates, MagicOS 11",
+      "Chipset": "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm)",
+      "CPU": "Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720)",
+      "GPU": "Adreno 825"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Triple": "200 MP, f/1.9, 24mm (wide), 1/1.4\", 0.56µm, PDAF (9cm - ∞), OIS\n50 MP, f/2.8, 80mm (telephoto), PDAF, OIS, 3.5x optical zoom\n12 MP, f/2.2, 16mm, 112˚ (ultrawide), PDAF",
+      "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+      "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, OIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.0, 21mm (wide), 1/2.88\", 0.61µm",
+      "Features": "HDR",
+      "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band or tri-band, Wi-Fi Direct",
+      "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5",
+      "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 2.0, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity (ultrasound), compass"
+    },
+    "BATTERY": {
+      "Type": "Si/C Li-Ion 9000 mAh",
+      "Charging": "80W wired\n27W reverse wired"
+    },
+    "MISC": {
+      "Colors": "White, Dark blue, Blue, Pink",
+      "Models": "FAA-AN00"
+    }
+  }
+}
