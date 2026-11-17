@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/sharp_aquos_sense11_5g-15087.php",
+  "name": "Sharp Aquos sense11",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/sharp-aquos-sense11.jpg",
+  "highlights": [
+    "Exp. release 2026, December\n157g, 7.6mm thickness\nAndroid 17, up to 4 major OS updates\n128GB/256GB storage, microSDXC",
+    "1.6%\n1,313 HITS",
+    "3\nBECOME A FAN",
+    "6.2\"\n1080x2340 pixels",
+    "50MP\n2160p",
+    "8/12GB RAM\nSnapdragon 7s Gen 3",
+    "5000mAh\n36W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA/Sub6",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "2026, November 17",
+      "Status": "Coming soon. Exp. release 2026, December"
+    },
+    "BODY": {
+      "Dimensions": "151 x 73 x 7.6 mm (5.94 x 2.87 x 0.30 in)",
+      "Weight": "157 g (5.54 oz)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "Nano-SIM + eSIM",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant\nDrop resistant up to 1.2m"
+    },
+    "DISPLAY": {
+      "Type": "LTPO IGZO OLED, 1B colors, 240Hz, 1500 nits (HBM), 3000 nits (peak)",
+      "Size": "6.2 inches, 94.4 cm2 (~85.6% screen-to-body ratio)",
+      "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~416 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 17, up to 4 major OS updates",
+      "Chipset": "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)",
+      "CPU": "Octa-core (1x2.5 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
+      "GPU": "Adreno 810"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "128GB 8GB RAM, 256GB 12GB RAM",
+      "": "UFS 3.1"
+    },
+    "MAIN CAMERA": {
+      "Dual": "50 MP, f/1.9, 23mm (wide), 1/1.55\", dual pixel PDAF, OIS\n50 MP, f/2.2, 13mm, 122˚ (ultrawide), 1/2.55\", PDAF",
+      "Features": "LED flash, HDR, panorama",
+      "Video": "Yes, gyro-EIS"
+    },
+    "SELFIE CAMERA": {
+      "Single": "32 MP, f/2.2, 25mm (wide)",
+      "Video": "Yes, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+      "Bluetooth": "5.2, A2DP, LE, aptX Adaptive",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh",
+      "Charging": "36W wired"
+    },
+    "MISC": {
+      "Colors": "Copper, Gold, Silver, Black"
+    }
+  }
+}
