@@ -1,0 +1,84 @@
+{
+  "url": "https://www.gsmarena.com/huawei_osta_o1_pro-15088.php",
+  "name": "Huawei Osta O1 Pro",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-osta-o1-pro.jpg",
+  "highlights": [
+    "Not announced yet\n6.7mm thickness\nHarmonyOS 7.0\n256GB/512GB/1TB storage, no card slot",
+    "1.1%\n653 HITS",
+    "1\nBECOME A FAN",
+    "6.39\"\n1320x2232 pixels",
+    "200MP\n2160p",
+    "12/16GB RAM\nKirin 9030S",
+    "7000mAh\n66W50W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "LTE",
+      "5G bands": "SA/NSA",
+      "Speed": "HSPA, LTE, 5G"
+    },
+    "LAUNCH": {
+      "Announced": "Not announced yet",
+      "Status": "Rumored"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front (Kunlun Glass), glass back, aluminum frame",
+      "SIM": "Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)",
+      "": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+    },
+    "DISPLAY": {
+      "Type": "OLED, 1B colors, 120Hz, 2160Hz PWM, HDR Vivid, 6500 nits (peak)",
+      "Size": "6.39 inches, 115.4 cm2 (~92.1% screen-to-body ratio)",
+      "Resolution": "1320 x 2232 pixels, 5:3 ratio (~406 ppi density)",
+      "Protection": "Kunlun Glass"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 7.0",
+      "Chipset": "Kirin 9030S (5 nm)",
+      "CPU": "Octa-core (1x2.7 GHz Taishan Big & 3x2.15 GHz Taishan Mid & 4x1.62 GHz Taishan Little)",
+      "GPU": "Maleoon 935F"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Dual": "200 MP, f/1.8, 23mm (wide), PDAF, OIS\n50 MP, f/2.6, 88mm (periscope telephoto), PDAF, OIS, 3.7x optical zoom",
+      "Features": "Laser AF, color spectrum sensor, LED flash, panorama, HDR",
+      "Video": "4K, 1080p, gyro-EIS, HDR Vivid"
+    },
+    "SELFIE CAMERA": {
+      "Single": "50 MP, f/2.4, (wide)",
+      "Video": "4K@30fps, 1080p@30/120fps, HDR Vivid"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "6.0, A2DP, LE, L2HC",
+      "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC",
+      "NFC": "Yes",
+      "Infrared port": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1, OTG, DisplayPort 1.2"
+    },
+    "FEATURES": {
+      "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, altimeter",
+      "": "BDS Satellite Messaging - China only"
+    },
+    "BATTERY": {
+      "Type": "7000 mAh",
+      "Charging": "66W wired\n50W wireless\n5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "White, Black, Purple"
+    }
+  }
+}
