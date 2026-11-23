@@ -1,0 +1,83 @@
+{
+  "url": "https://www.gsmarena.com/honor_pad_x10_mini-15094.php",
+  "name": "Honor Pad X10 Mini",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad-x10-mini.jpg",
+  "highlights": [
+    "Released 2026, October 23\n447g, 8.5mm thickness\nAndroid 16, MagicOS 10\n128GB storage, microSDXC",
+    "2.0%\n602 HITS",
+    "1\nBECOME A FAN",
+    "9.7\"\n1152x2052 pixels",
+    "5MP\n1080p",
+    "4/6GB RAM\nSnapdragon 685",
+    "8000mAh\n15W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, October 15",
+      "Status": "Available. Released 2026, October 23"
+    },
+    "BODY": {
+      "Dimensions": "235.4 x 141.4 x 8.5 mm (9.27 x 5.57 x 0.33 in)",
+      "Weight": "447 g (15.77 oz)",
+      "Build": "Glass front, aluminum frame, aluminum back",
+      "SIM": "No",
+      "": "MIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions\nDrop resistant up to 1.6m"
+    },
+    "DISPLAY": {
+      "Type": "TFT LCD, 90Hz, 500 nits",
+      "Size": "9.7 inches, 259.1 cm2 (~77.8% screen-to-body ratio)",
+      "Resolution": "1152 x 2052 pixels, 16:9 ratio (~243 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android 16, MagicOS 10",
+      "Chipset": "Qualcomm SM6225 Snapdragon 685 (6 nm)",
+      "CPU": "Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)",
+      "GPU": "Adreno 610"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC (dedicated slot)",
+      "Internal": "128GB 4GB RAM, 128GB 6GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "5 MP, f/2.2, AF",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP, f/2.2",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No",
+      "": "24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "Bluetooth": "5.0, A2DP, LE",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C, OTG"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 8000 mAh",
+      "Charging": "15W wired"
+    },
+    "MISC": {
+      "Colors": "Gray",
+      "Models": "ONL-W09",
+      "Price": "About 150 EUR"
+    }
+  }
+}
