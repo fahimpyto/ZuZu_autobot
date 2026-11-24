@@ -1,0 +1,75 @@
+{
+  "url": "https://www.gsmarena.com/huawei_watch_air-15100.php",
+  "name": "Huawei Watch Air",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-air.jpg",
+  "highlights": [
+    "Released 2026, November 24\n27g, 6.9mm thickness\nHarmonyOS 7\nNo card slot",
+    "2.6%\n823 HITS",
+    "3\nBECOME A FAN",
+    "1.92\"\n480x408 pixels",
+    "NO",
+    "",
+    "350mAh"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "Speed": "No",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2026, November 24",
+      "Status": "Available. Released 2026, November 24"
+    },
+    "BODY": {
+      "Dimensions": "43.1 x 39.2 x 6.9 mm (1.70 x 1.54 x 0.27 in)",
+      "Weight": "27 g (0.95 oz)",
+      "Build": "Sapphire crystal front, titanium case, glass back (sensors zone)",
+      "SIM": "No",
+      "": "5 ATM water resistant\nIP6X dust tight\nECG certified"
+    },
+    "DISPLAY": {
+      "Type": "LTPO2 AMOLED, 3500 nits (80% APL)",
+      "Size": "1.92 inches",
+      "Resolution": "480 x 408 pixels (~328 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 7 (for watches)"
+    },
+    "MEMORY": {
+      "Card slot": "No"
+    },
+    "CAMERA": {
+      "": "No"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "No",
+      "Bluetooth": "6.0, LE",
+      "Positioning": "GPS (L1+L5), GALILEO (E1+E5a), QZSS (L1+L5), BDS (B1l+B1C+B2a), GLONASS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "No"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, heart rate, SpO2, compass, barometer, thermometer (body temperature), electrocardiogram",
+      "": "Pulse wave arrhythmia analysis"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 350 mAh",
+      "Charging": "Wireless charging"
+    },
+    "MISC": {
+      "Colors": "Silver, Black, Gold",
+      "Models": "KTA-B19",
+      "Price": "About 370 EUR"
+    }
+  }
+}
