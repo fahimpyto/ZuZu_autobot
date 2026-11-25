@@ -1,0 +1,70 @@
+{
+  "Camera": {
+    "Rear:": "50 MP, f/1.9, (wide), 1.0µm, PDAF, OIS",
+    "Flash:": "LED flash, HDR, panorama",
+    "Front:": "16 MP, f/2.3, (wide), 1.0µm",
+    "Folded:": "",
+    "Main camera:": "50 MP, f/1.9, (wide), 1.0µm, PDAF, OIS",
+    "Second camera:": "20 MP, f/1.8, (night vision), infrared lights",
+    "Third camera:": "16 MP, f/2.2, 123˚ (ultrawide), 1.2µm",
+    "Specifications:": "Aperture size: F/1.9",
+    "Video recording:": "1440p@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Keys:": "Right: Volume control, Lock/Unlock key",
+    "Colors:": "Black",
+    "Folded:": "",
+    "Weight:": "460 g (1.01 lb)",
+    "Materials:": "",
+    "Biometrics:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Dimensions:": "179.7 x 84.1 x 19.8 mm (7.07 x 3.31 x 0.78 in)",
+    "Resistance:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nMIL-STD-810H compliant\nAccessory connector (ulefone endoscope, microscope)\n800 lumens dedicated flood flashlight\nLaser rangefinder"
+  },
+  "Battery": {
+    "Type:": "Li-Po",
+    "Capacity:": "11000 mAh",
+    "Charging:": "33W wired\n10W reverse wired",
+    "Max charge speed:": "Wired: 33W"
+  },
+  "Display": {
+    "Size:": "6.78 inches",
+    "Features:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Resolution:": "1080 x 2460 pixels (~396 ppi density)",
+    "Technology:": "IPS LCD",
+    "Refresh rate:": "120Hz",
+    "Screen-to-body:": "",
+    "Peak brightness:": "",
+    "Front cover display:": ""
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 66, 71",
+    "5G bands:": "",
+    "SIM type:": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 2 major OS updates",
+    "GPU:": "Mali-G57 MC2",
+    "RAM:": "12GB",
+    "Processor:": "Mediatek Helio G200 (6 nm)",
+    "Device type:": "Smartphone",
+    "Internal storage:": "256GB (UFS)"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, 107 dB",
+    "Headphones:": "No",
+    "Screen mirroring:": "Wireless screen share",
+    "Additional microphone(s):": ""
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 2.0, OTG, accessory connector pins",
+    "Other:": "NFC, Infrared",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+    "Features:": "USB Type-C 2.0, OTG, accessory connector pins",
+    "Location:": "GPS, GALILEO, GLONASS, QZSS, BDS",
+    "Bluetooth:": "5.2, A2DP, LE"
+  }
+}
