@@ -1,0 +1,78 @@
+{
+  "url": "https://www.gsmarena.com/zte_blade_a35e-15111.php",
+  "name": "ZTE Blade A35e",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/zte-blade-a35e.jpg",
+  "highlights": [
+    "Released 2026, August\n\nAndroid\n32GB/64GB storage, microSDXC",
+    "6.0%\n1,117 HITS",
+    "2\nBECOME A FAN",
+    "6.52\"\n720x1600 pixels",
+    "8MP\n1080p",
+    "2GB RAM",
+    "5000mAh\n10W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / HSPA / LTE",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "3G bands": "HSDPA 850 / 900 / 2100",
+      "4G bands": "LTE",
+      "Speed": "HSPA, LTE"
+    },
+    "LAUNCH": {
+      "Announced": "2026, August 04",
+      "Status": "Available. Released 2026, August"
+    },
+    "BODY": {
+      "Dimensions": "-",
+      "Weight": "-",
+      "Build": "Glass front, plastic frame, plastic back",
+      "SIM": "Nano-SIM + Nano-SIM"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD",
+      "Size": "6.52 inches, 102.6 cm2",
+      "Resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+    },
+    "PLATFORM": {
+      "OS": "Android (Go edition)",
+      "CPU": "Octa-core (up to 1.6 GHz)"
+    },
+    "MEMORY": {
+      "Card slot": "microSDXC",
+      "Internal": "32GB 2GB RAM, 64GB 2GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "8 MP",
+      "Features": "LED flash",
+      "Video": "1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "5 MP",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes",
+      "3.5mm jack": "Yes"
+    },
+    "COMMS": {
+      "WLAN": "Yes",
+      "Bluetooth": "Yes",
+      "Positioning": "GPS",
+      "NFC": "No",
+      "Radio": "FM radio",
+      "USB": "USB Type-C 2.0"
+    },
+    "FEATURES": {
+      "Sensors": "Yes"
+    },
+    "BATTERY": {
+      "Type": "5000 mAh",
+      "Charging": "10W wired"
+    },
+    "MISC": {
+      "Colors": "Gray, Green, Gold",
+      "Price": "About 200 EUR"
+    }
+  }
+}
